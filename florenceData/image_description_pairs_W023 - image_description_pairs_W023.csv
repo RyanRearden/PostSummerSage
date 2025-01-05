@@ -1,0 +1,303 @@
+img,Description,Ground Truth
+downloaded_images_W023/2024-09-14 17:05:33.736409722+00:00.jpg,"DESCRIPTION: The image shows a long, empty road with two cars parked on the side. The road appears to be in a rural area with trees and grass on both sides. On the left side of the road, there is a white car parked next to a black car. The sky is blue and there are a few clouds in the sky. The image is taken from a high angle, looking down on the road and the cars. There is a sign on the right side that reads ""No Parking"". LABELS: The road, a white car, The sky, a sign, Sheriff's Office car, white SUV, wheel","DESCRIPTION:
+The image depicts a scene on a two-lane road that curves gently to the right. The road is surrounded by lush greenery, with trees and grass covering both sides. On the left side of the road, there is a white car stopped at an intersection, facing towards the camera. To the right of the white car, another vehicle, which appears to be a police car due to its distinct markings and design, is driving away from the camera along the road. The road surface shows signs of wear with visible cracks and patches. There are no visible pedestrians or cyclists in the scene.
+
+The sky is clear, suggesting it might be a sunny day. The shadows cast by the trees indicate that the sun is positioned to the left of the frame. There are no buildings or other man-made structures visible in the immediate vicinity, giving the impression of a rural or suburban setting.
+
+LABELS:
+- White car
+- Police car
+- Road
+- Trees
+- Grass
+- Shadows
+- Clear sky"
+downloaded_images_W023/2024-09-14 17:30:06.460369306+00:00.jpg,"DESCRIPTION: The image shows a long, straight road with a car parked on the right side. The road appears to be in a residential area with trees and bushes on both sides. The sky is blue and there are no clouds visible. On the left side of the road, there is a grassy area with a few trees and shrubs. There is a street sign and a street lamp on the left lane. The car is black and is parked in the center of the image. The image is taken from a high angle, looking down on the road. LABELS: The road, The sky, a grassy area, a street sign, The car, Sheriff's Office car, wheel","DESCRIPTION:
+The image depicts a wide, two-lane road that curves gently to the right. The road is surrounded by lush greenery, with trees and grass on both sides. There are visible cracks in the asphalt, indicating wear and tear over time. On the left side of the road, there is a stop sign mounted on a metal pole. A police car is parked on the right side of the road, near the curb. The sky is clear, suggesting it might be a sunny day.
+
+LABELS:
+- Road
+- Trees
+- Grass
+- Cracks in asphalt
+- Stop sign
+- Metal pole
+- Police car
+- Curbside"
+downloaded_images_W023/2024-09-14 23:45:06.141858306+00:00.jpg,"DESCRIPTION: The image shows a long, empty road with a police car parked on the right side. The road appears to be in a rural area with trees on both sides and a grassy area on the left side. There is a street lamp on the side of the road and a sign on the sidewalk. The sky is overcast and the overall mood of the image is gloomy. LABELS: police car, The road, a street lamp, The sky, wheel","DESCRIPTION:
+The image depicts a tranquil suburban scene with a two-lane road that curves gently to the right. The road is flanked by lush greenery, including trees and grassy areas, suggesting a peaceful, possibly rural setting. On the left side of the road, there's a stop sign mounted on a metal pole, indicating an intersection or a point where vehicles must come to a halt. A black police car is parked on the right side of the road, near the curb, facing away from the camera. The car has visible markings and lights, typical of law enforcement vehicles. The sky appears overcast, casting soft, diffused light over the scene.
+
+LABELS:
+- Road
+- Trees
+- Grass
+- Stop sign
+- Police car
+- Metal pole
+- Overcast sky"
+downloaded_images_W023/2024-09-16 02:30:06.873718825+00:00.jpg,"DESCRIPTION: The image is a black and white aerial view of a street at night. The street is empty and there are no cars or people visible. On the right side of the image, there is a police car parked on the side of a road. The car appears to be a newer model with a sleek design. The road is lined with trees on both sides and there is an empty parking lot on the left side. The sky is dark and the street is lit up by streetlights. There is a sign on the sidewalk that reads ""No Parking"". LABELS: a police car, The car, The road, an empty parking lot, The sky, a sign, police car at night with flashing lights, wheel","DESCRIPTION:
+The image is a black and white photograph depicting an empty road at night. The road stretches into the distance, illuminated by streetlights that cast shadows on the asphalt. On the right side of the road, there is a parked car with its headlights on, facing away from the camera. The car appears to be a sedan, and it is positioned near the curb. There are no visible people or moving vehicles in the scene. The road is flanked by grassy areas on both sides, and trees can be seen lining the edges of the road. The sky is not visible due to the darkness.
+
+LABELS:
+- Road
+- Streetlights
+- Car
+- Headlights
+- Grass
+- Trees"
+downloaded_images_W023/2024-09-16 16:32:26.333727817+00:00.jpg,"DESCRIPTION: The image shows a long, straight road with multiple cars parked on the side. The road appears to be in a rural area with trees and grass on both sides. There is a street lamp on the right side of the road and a sign on the left side. In the center of the image, there is a white car and a black car. The sky is blue and there are no other cars or people visible in the image. The image is taken from a high angle, looking down on the road. LABELS: The road, a street lamp, a white car, The sky, black Jeep Wrangler with roof rack on grassy field, Tesla Model S black car, SUV with roof rails on road, street light, SUV on road with trees in background, wheel","DESCRIPTION:
+The image depicts a scene of a road intersection with several vehicles and some vegetation. The road is a two-lane asphalt surface with visible cracks and patches, indicating wear and tear. On the left side of the road, there is a black car parked on the grassy verge. In the center of the road, a white car is stopped at what appears to be an intersection, possibly waiting for a signal or for other vehicles to clear. Further down the road, another vehicle is approaching from the opposite direction. To the right of the road, there is a utility vehicle, possibly a golf cart, parked on the grass.
+
+The surrounding area includes green grass and trees, suggesting a suburban or semi-rural setting. There are no visible signs or traffic signals in the immediate vicinity of the intersection. The sky is not visible in the image, so lighting conditions cannot be determined.
+
+LABELS:
+- Black car
+- White car
+- Utility vehicle (golf cart)
+- Road
+- Grass
+- Trees"
+downloaded_images_W023/2024-09-16 16:36:26.321569429+00:00.jpg,"DESCRIPTION: The image shows a long, straight road with multiple lanes. The road is surrounded by trees on both sides and there is a grassy area on the left side of the road. On the right side, there are two cars parked on the side. In the center of the image, there is an empty parking lot with a black SUV and a black jeep parked next to it. The sky is blue and there are a few clouds in the sky. The image appears to be taken from a high angle, looking down on the road and the cars. LABELS: a grassy area, two cars, an empty parking lot, The sky, black Jeep Wrangler with blue roof rack, black SUV, black car with license plate, wheel, car","DESCRIPTION:
+The image depicts a scene of an intersection on a road. The road is surrounded by greenery, with trees and grass visible on both sides. There are three vehicles in the image: one black car driving towards the camera, another black car parked on the side of the road, and a small black vehicle, possibly a golf cart or utility vehicle, parked on the right side of the road. The road itself appears to be asphalt with visible cracks and patches. There is a street sign on the left side of the road, but the text on it is not legible. The sky is clear, suggesting it might be a sunny day.
+
+LABELS:
+- Road
+- Greenery (trees, grass)
+- Vehicles (black car, parked black car, small black vehicle)
+- Street sign
+- Asphalt road surface"
+downloaded_images_W023/2024-09-16 16:40:26.321619596+00:00.jpg,"DESCRIPTION: The image shows a long, straight road with a black jeep parked on the right side. The road appears to be in a rural area with trees and bushes on both sides. The sky is blue and there are a few clouds in the sky. On the left side of the road, there is a grassy area with a few trees and shrubs. There is a street sign on the left lane and a street lamp on the top right corner. The image is taken from a high angle, looking down the road towards the horizon. LABELS: jeep, The road, The sky, a grassy area, a street sign, street lamp, black off-road vehicle with roof rack, wheel","DESCRIPTION:
+The image depicts a tranquil suburban scene with a focus on a road and its surroundings. The road is a two-lane asphalt surface, showing signs of wear with visible cracks and patches. It curves gently to the right as it extends into the distance, bordered by grassy areas on both sides. The road is flanked by trees and shrubs, creating a natural border that adds to the serene atmosphere.
+
+On the right side of the road, there is a small utility vehicle parked near the curb. The vehicle appears to be a golf cart or similar type of maintenance vehicle, suggesting that this area might be part of a larger property or community where such vehicles are used for maintenance purposes.
+
+A street sign is visible on the left side of the road, although the specific details on the sign are not discernible from this angle. The signpost stands erect, indicating traffic regulations or directions for drivers.
+
+The sky is clear, suggesting a sunny day with good visibility. The shadows cast by the trees and the vehicle indicate that the sun is positioned at an angle, possibly midday or early afternoon.
+
+Overall, the image conveys a sense of calm and order, typical of a well-maintained suburban or park-like setting.
+
+LABELS:
+- Road
+- Asphalt
+- Cracks
+- Patches
+- Trees
+- Shrubs
+- Utility vehicle (golf cart)
+- Street sign
+- Grass
+- Clear sky
+- Shadows"
+downloaded_images_W023/2024-09-16 16:44:16.326237515+00:00.jpg,"DESCRIPTION: The image shows a long, straight road with a few trees on both sides. On the left side of the road, there is a grassy area with trees and bushes on the right side. In the center of the image, there are two trucks, one green and one white, driving on the road. The green truck is on the left and the white truck is in the middle. The road appears to be empty, with no cars or people visible in the image. There is a black jeep parked on the side of one of the trucks. The sky is blue and there are a few clouds in the sky. LABELS: a grassy area, two trucks, The green truck, The road, a black jeep, The sky, black mini golf cart, street light, truck with food truck on road, wheel","DESCRIPTION:
+The image depicts a scene of a road with a green truck driving towards the camera. The road is surrounded by lush green trees and grass, indicating a rural or suburban setting. There are visible cracks on the asphalt surface of the road, suggesting it might be an older or less maintained road. On the right side of the road, there is a small utility vehicle parked near a lamp post. The sky is clear, and the lighting suggests it could be midday.
+
+LABELS:
+- Green truck
+- Road
+- Trees
+- Grass
+- Lamp post
+- Utility vehicle
+- Cracks on asphalt"
+downloaded_images_W023/2024-09-16 17:14:46.082155832+00:00.jpg,"DESCRIPTION: The image shows a long, empty road with a black jeep parked on the right side. The road appears to be in a rural area with trees and bushes on both sides. The sky is blue and there are no clouds visible. On the left side of the road, there is a grassy area with a few trees and shrubs. There is a street sign on the left lane and a street lamp on the top right corner. The image is taken from a high angle, looking down the road towards the horizon. LABELS: jeep, The road, The sky, a grassy area, a street sign, street lamp, black utility vehicle, wheel","DESCRIPTION:
+The image depicts a wide, paved road that curves gently to the right. The road is flanked by grassy areas on both sides, with trees and shrubs providing a natural border. The surface of the road shows visible cracks and patches, indicating wear and some maintenance history. On the right side of the road, there is a small utility vehicle, possibly a golf cart or a similar type of light vehicle, parked near the curb. A street sign is also visible on the left side of the road, although its details are not clear from this angle. The sky is overcast, suggesting a cloudy day, and the overall lighting is soft without harsh shadows.
+
+LABELS:
+- Road
+- Grass
+- Trees
+- Shrubs
+- Utility vehicle
+- Street sign
+- Overcast sky"
+downloaded_images_W023/2024-09-16 17:30:35.851819065+00:00.jpg,"DESCRIPTION: The image shows a long, straight road with a black jeep parked on the right side. The road appears to be in a residential area with trees and bushes on both sides. The sky is blue and there are a few clouds in the sky. On the left side of the road, there is a grassy area with a few trees and shrubs. There is a street sign on the left lane and a street lamp on the top right corner. The image is taken from a high angle, looking down on the road. LABELS: jeep, The road, The sky, a grassy area, a street sign, street lamp, black utility vehicle with roof rack and spare tire, wheel","DESCRIPTION:
+The image depicts a wide, paved road that curves gently to the right. The road is flanked by grassy areas on both sides, with trees and shrubs providing a natural border. The surface of the road shows visible cracks and patches, indicating wear and maintenance needs. On the right side of the road, there is a small utility vehicle parked near a street lamp. A stop sign is visible on the left side of the road, positioned at an intersection where the road splits into two directions. The sky is clear, suggesting it might be a sunny day.
+
+LABELS:
+- Road
+- Grass
+- Trees
+- Utility vehicle
+- Street lamp
+- Stop sign
+- Cracks on the road"
+downloaded_images_W023/2024-09-16 17:54:26.295191929+00:00.jpg,"DESCRIPTION: The image shows a long, straight road with a black jeep parked on the right side. The road appears to be in a residential area with trees and bushes on both sides. The sky is blue and there are no clouds visible. On the left side of the road, there is a grassy area with a few trees and shrubs. There is a street lamp on the left lane and a no parking sign on the sidewalk. The jeep is parked in the middle of the street and is facing towards the right. LABELS: The road, The sky, a grassy area, a street lamp, The jeep, black utility vehicle with roof rack and spare tire, wheel","DESCRIPTION:
+The image depicts a wide, two-lane road that curves gently to the right. The road is surrounded by lush greenery, with trees and grass on both sides. There are visible cracks in the asphalt, indicating wear and tear over time. On the right side of the road, there's a small utility vehicle parked near the curb. A stop sign is positioned on the left side of the road, close to the intersection where the road curves. The sky is clear, suggesting it might be a sunny day.
+
+LABELS:
+- Road
+- Utility vehicle
+- Stop sign
+- Trees
+- Grass
+- Cracks in asphalt"
+downloaded_images_W023/2024-09-16 18:04:05.936099252+00:00.jpg,"DESCRIPTION: The image shows a long, empty road with multiple lanes. On the left side of the road, there is a grassy area with trees and bushes on both sides. In the center of the image, there are three cars - a silver car, a black car, and a black jeep. The road appears to be in a rural area, as there are no other cars or people visible in the image. The sky is blue and the overall atmosphere is peaceful and serene. LABELS: a grassy area, three cars, a silver car, a black car, a black jeep, The road, The sky, silver Toyota Camry on road, black utility vehicle with roof rack and spare tire, street light, black SUV, wheel","DESCRIPTION:
+The image depicts a scene of a road intersection with several vehicles and a small utility vehicle. The road is a two-lane street with visible lane markings, and it curves gently to the right as it extends into the distance. On the left side of the road, there is a grassy area with trees, while on the right side, there is a sidewalk and a lamp post.
+
+In the foreground, there is a silver sedan making a right turn onto the road from an adjacent driveway. The car has a sleek design with a visible rear spoiler and alloy wheels. To the right of the sedan, there is a black utility vehicle parked on the side of the road. This vehicle appears to be a small truck or golf cart-like vehicle, possibly used for maintenance or security purposes.
+
+Further down the road, two more vehicles are visible. One is a dark-colored SUV driving away from the camera, and the other is a black car that seems to be stationary or moving very slowly. There is also a pedestrian crossing sign visible on the left side of the road, indicating a designated crossing point for pedestrians.
+
+The overall scene suggests a quiet suburban or park setting, with no visible traffic congestion or pedestrians. The lighting conditions indicate daytime with clear skies, as there are no shadows cast by clouds.
+
+LABELS:
+- Road
+- Lane markings
+- Grass
+- Trees
+- Sidewalk
+- Lamp post
+- Silver sedan
+- Black utility vehicle
+- Pedestrian crossing sign
+- SUV
+- Car
+- Suburban/park setting"
+downloaded_images_W023/2024-09-16 18:16:06.117706500+00:00.jpg,"DESCRIPTION: The image shows a long, empty road with a curved curve in the middle. The road appears to be in a residential area, as there are trees and bushes on both sides of the road. The sky is blue and there are a few clouds visible. On the right side of the image, there is a street lamp and a signpost. The ground is covered in grass and there is another street visible in the background. The image is taken from a high angle, looking down the road towards the horizon. LABELS: The road, trees, The sky, a street lamp, The ground, another street","DESCRIPTION:
+The image depicts a wide, two-lane road that curves gently to the right. The road is surrounded by lush greenery, with trees and grass on both sides. There are no vehicles or pedestrians visible on the road. On the left side of the road, there is a stop sign positioned near the edge of the pavement. A streetlight stands tall on the right side of the road, slightly ahead of the curve. The road surface shows signs of wear with visible cracks and patches. The sky is not visible in the image.
+
+LABELS:
+- Road
+- Trees
+- Grass
+- Stop sign
+- Streetlight
+- Cracks on the road"
+downloaded_images_W023/2024-09-16 18:23:45.916551476+00:00.jpg,"DESCRIPTION: The image shows a long, empty road with a white car parked on the side. The road appears to be in a rural area with trees and grass on both sides. The sky is blue and there are a few clouds in the sky. On the right side of the road, there is a street lamp and a signpost. The car is white and is driving towards the left side. There are no other cars or people visible in the image. The image appears to have been taken from a high angle, looking down the road. LABELS: The road, The sky, a street lamp, The car, no other cars, white car with license plate on road, wheel","DESCRIPTION:
+The image depicts a wide, two-lane road that curves gently to the right. The road is surrounded by lush greenery, with trees and grass on both sides. There are visible cracks and patches on the asphalt, indicating wear and maintenance needs. On the left side of the road, there's a white car parked near the curb. A stop sign is also present on this side, positioned at an intersection where the road splits into two directions. The sky is clear, suggesting it might be a sunny day.
+
+LABELS:
+- Road
+- Trees
+- Grass
+- Cracks on the road
+- Patches on the road
+- White car
+- Stop sign
+- Intersection"
+downloaded_images_W023/2024-09-16 18:38:45.861860657+00:00.jpg,"DESCRIPTION: The image shows a long, empty road with a curved curve in the middle. The road is surrounded by trees and shrubs on both sides, and there is a grassy area on the left side of the road. The sky is blue and there are a few clouds in the sky. On the right side, there are two street lamps and a signpost. The image appears to be taken from a high vantage point, looking down the road towards the horizon. LABELS: a grassy area, The sky, two street lamps","DESCRIPTION:
+The image depicts a wide, two-lane road that curves gently to the right. The road is surrounded by lush greenery, with trees and grass on both sides. There are no visible vehicles or pedestrians on the road. On the left side of the road, there is a street sign mounted on a metal pole. The road surface shows signs of wear with visible cracks and patches. The sky is not visible in the image.
+
+LABELS:
+- Road
+- Lane markings
+- Trees
+- Grass
+- Street sign
+- Metal pole
+- Cracks on the road
+- Patches on the road"
+downloaded_images_W023/2024-09-16 18:42:25.537857684+00:00.jpg,"DESCRIPTION: The image shows a long, empty road with a curved curve in the middle. The road is surrounded by trees and shrubs on both sides. On the left side of the road, there is a grassy area with a few trees and bushes. The sky is blue and there are a few clouds in the distance. The image appears to be taken from a high vantage point, looking down the road towards the horizon. There is a street lamp on the right side and a sign on the left. The overall mood of the image is peaceful and serene. LABELS: a grassy area, The sky, a street lamp","DESCRIPTION:
+The image depicts a wide, two-lane road that curves gently to the right. The road is surrounded by lush greenery, with trees and grass on both sides. There are no visible vehicles or pedestrians on the road. On the left side of the road, there is a street sign partially obscured by the foliage. The road surface shows signs of wear with visible cracks and patches. The sky is not visible in the image.
+
+LABELS:
+- Road
+- Trees
+- Grass
+- Street sign
+- Cracks on the road
+- Patches on the road"
+downloaded_images_W023/2024-09-16 18:49:45.937663369+00:00.jpg,"DESCRIPTION: The image shows a long, straight road with a red car driving on it. The road appears to be in a rural area with trees and bushes on both sides. The sky is blue and there are a few clouds visible in the distance. On the left side of the road, there is a grassy area with a few trees and shrubs. There is a street lamp on the right side and a sign on the left. The image is taken from a high angle, looking down the road towards the car. LABELS: The road, The sky, a grassy area, a street lamp, A black car driving down a road with trees in the background.","DESCRIPTION:
+The image depicts a road scene with a single vehicle, a dark-colored car, driving away from the viewpoint. The road is a two-lane asphalt surface with visible cracks and patches, indicating wear and maintenance. There are no visible lane markings on the road. On the left side of the road, there is a grassy area with trees and shrubs, while the right side has a similar landscape but includes a streetlight pole. The sky is clear, suggesting it might be a sunny day.
+
+The road curves gently to the right as it extends into the distance, and there is a slight incline visible in the road's gradient. The car is positioned near the center of the road, moving towards the curve. There are no other vehicles or pedestrians in sight, giving the scene a quiet and serene atmosphere.
+
+LABELS:
+- Road
+- Car
+- Grass
+- Trees
+- Streetlight pole
+- Sky"
+downloaded_images_W023/2024-09-16 19:08:46.264998221+00:00.jpg,"DESCRIPTION: The image shows a long, straight road with a few trees on both sides. The road appears to be in a residential area, as there are no cars or people visible in the image. On the right side of the road, there is a black utility vehicle parked on the side. The sky is blue and there are a few clouds in the distance. The trees on the left and right sides of the image are green, indicating that the photo was taken during the day. LABELS: The road, a black utility vehicle, The sky, The trees, black utility vehicle, wheel","DESCRIPTION:
+The image depicts a wide, two-lane road that curves gently to the right. The road is surrounded by lush greenery, with trees and grass on both sides. There are no vehicles on the road itself, but there is a small black vehicle parked on the right side of the road, near the curb. The road surface shows signs of wear with visible cracks and patches. On the left side of the road, there is a street sign mounted on a metal pole, although the details on the sign are not legible. The sky is clear, suggesting it might be a sunny day.
+
+LABELS:
+- Road
+- Trees
+- Grass
+- Black vehicle
+- Street sign
+- Metal pole"
+downloaded_images_W023/2024-09-20 19:25:55.687782442+00:00.jpg,"DESCRIPTION: The image shows a long, straight road with a few trees on both sides. The road appears to be in a residential area, as there are no cars or people visible in the image. The sky is blue and there are a few clouds in the sky. On the right side of the road, there is a street lamp and a signpost. The ground is covered in grass and there is another street visible on the left side. The image is taken from a high angle, looking down the road towards the horizon. LABELS: The road, The sky, a street lamp, The ground, another street","DESCRIPTION:
+The image depicts a wide, two-lane road that curves gently to the right. The road is surrounded by lush greenery, with trees and grass on both sides. There are no vehicles or pedestrians visible on the road. On the left side of the road, there is a street sign standing upright in the grassy area. On the right side, there is a tall utility pole with a light fixture at its top. The road surface shows signs of wear with visible cracks and patches. The sky is not visible in the image.
+
+LABELS:
+- Road
+- Trees
+- Grass
+- Street sign
+- Utility pole
+- Light fixture
+- Cracks on the road"
+downloaded_images_W023/2024-09-20 19:55:56.231261021+00:00.jpg,"DESCRIPTION: The image shows a long, straight road with a white line on the right side. The road appears to be in a rural area with trees and bushes on both sides. On the left side of the road, there is a grassy area with a few trees and shrubs. The sky is blue and there are a few clouds in the distance. The image is taken from a high angle, looking down the road towards the horizon. There is a street sign on the left lane and a street lamp on the sidewalk. The overall mood of the image is peaceful and serene. LABELS: The road, a grassy area, The sky, a street sign","DESCRIPTION:
+The image depicts a wide, two-lane road that curves gently to the right. The road is surrounded by lush greenery, with trees and grass on both sides. There are no vehicles or pedestrians visible on the road. On the left side of the road, there is a signpost with two signs attached; one appears to be a speed limit sign, and the other is not clearly legible. On the right side, there is a tall streetlight pole without any lights attached. The road surface shows signs of wear with visible cracks and patches. The sky is clear, suggesting it might be a sunny day.
+
+LABELS:
+- Road
+- Trees
+- Grass
+- Signpost
+- Streetlight pole
+- Cracks on the road
+- Patches on the road"
+downloaded_images_W023/2024-09-20 19:59:35.890806847+00:00.jpg,"DESCRIPTION: The image shows a long, straight road with a few trees on both sides. The road appears to be in a residential area, as there are no cars or people visible on the road. The sky is blue and there are a few clouds in the sky. On the right side of the road, there is a street lamp and a signpost. The ground is covered in grass and there is an empty parking lot on the left side. The image is taken from a high angle, looking down the road towards the horizon. LABELS: The road, The sky, a street lamp, The ground, an empty parking lot","DESCRIPTION:
+The image depicts a wide, two-lane road that curves gently to the right. The road is surrounded by lush greenery, with trees and grass on both sides. There are no vehicles or pedestrians visible on the road. On the left side of the road, there is a signpost with multiple signs attached, although the text on the signs is not legible in the image. A streetlight stands tall on the right side of the road, near the edge of the pavement. The road surface shows signs of wear with visible cracks and patches. The sky is clear, suggesting it might be a sunny day.
+
+LABELS:
+- Road
+- Trees
+- Grass
+- Signpost
+- Streetlight
+- Cracks on the road"
+downloaded_images_W023/2024-09-20 20:10:56.206954240+00:00.jpg,"DESCRIPTION: The image shows a long, empty road with a few cars driving on it. The road appears to be in a rural area with trees and bushes on both sides. The sky is blue and there are a few clouds visible. On the right side of the road, there is a street lamp and a signpost. The ground is covered in grass and there is an arrow pointing to the right. The image is taken from a high angle, looking down the road towards the horizon. LABELS: The road, The sky, a street lamp, The ground, an arrow pointing","DESCRIPTION:
+The image depicts a wide, two-lane road that curves gently to the right. The road is surrounded by lush greenery, with trees and grass on both sides. There are no visible buildings or structures in the immediate vicinity, suggesting a rural or suburban setting. The road surface shows signs of wear with visible cracks and patches. On the left side of the road, there is a metal signpost with two signs attached; one is a standard rectangular traffic sign, and the other appears to be a smaller, possibly informational sign. A car is driving away from the viewpoint, moving towards the curve in the road. The sky is clear, indicating fair weather conditions.
+
+LABELS:
+- Road
+- Trees
+- Grass
+- Signpost
+- Traffic sign
+- Car
+- Cracks on road surface"
+downloaded_images_W023/2024-09-20 20:38:56.021457054+00:00.jpg,"DESCRIPTION: The image shows an aerial view of a long, straight road with two cars parked on the side. The road appears to be in a rural area with trees and bushes on both sides. The sky is blue and there are a few clouds visible. On the left side of the road, there is a grassy area with a few trees and shrubs. In the center of the image, there are two cars, one black and one silver, driving on the road. There is a street lamp on the right side and a sign on the left. The image is taken from a high angle, looking down on the two cars. LABELS: The road, The sky, a grassy area, two cars, a street lamp, Silver Dodge Charger on road, black pickup truck on road, wheel","DESCRIPTION:
+The image depicts a scene of an intersection on a road. There are two vehicles present: a blue sedan and a black pickup truck. The blue sedan is positioned closer to the foreground, driving towards the camera, while the black pickup truck is further away, moving away from the camera's perspective. Both vehicles are on a two-lane road that appears to be in a suburban or rural area, as indicated by the presence of trees and grassy areas surrounding the road.
+
+On the left side of the image, there is a street sign mounted on a metal pole. The sign is partially visible, with only the top part showing, indicating it might be a traffic or directional sign. The road surface shows signs of wear with visible cracks and patches, suggesting it may not be newly paved. The lighting conditions suggest it is daytime with clear skies, as there are no shadows indicating overcast weather.
+
+The overall arrangement of objects places the vehicles at the center of the image, with the road stretching out in both directions. The trees and grass provide a natural border around the road, creating a serene and calm atmosphere.
+
+LABELS:
+- Road
+- Blue sedan
+- Black pickup truck
+- Street sign
+- Metal pole
+- Trees
+- Grass
+- Cracks on the road"
+downloaded_images_W023/2024-09-20 21:00:16.206494615+00:00.jpg,"DESCRIPTION: The image shows a long, straight road with a few cars driving on it. The road is surrounded by trees on both sides and there is a grassy area on the left side of the road. The sky is blue and there are a few clouds in the sky. The image appears to be taken from a high angle, looking down the road towards the right side. There is a street sign on the right lane and a street lamp on the side. The car in the foreground is a black car and is driving towards the left lane. LABELS: a grassy area, The sky, a street sign, street lamp, The car, black pickup truck on road with trees in background, green pickup truck","DESCRIPTION:
+The image depicts a wide, two-lane road with a slight curve to the right. The road is surrounded by lush green trees and grass on both sides, indicating a suburban or rural setting. There are two vehicles visible: one black car driving towards the camera and another white car parked on the side of the road. On the left side of the road, there is a street sign partially obscured by the foliage. A metal pole stands on the right side of the road, possibly for traffic control or lighting. The road surface shows signs of wear with visible cracks and patches. The sky is clear, suggesting it might be a sunny day.
+
+LABELS:
+- Road
+- Black car
+- White car
+- Street sign
+- Metal pole
+- Trees
+- Grass"
+downloaded_images_W023/2024-09-20 21:10:36.260386405+00:00.jpg,"DESCRIPTION: The image shows a long, straight road with a few trees on both sides. The road appears to be in a residential area, as there are no cars or people visible on the road. The sky is blue and there are a few clouds in the sky. On the right side of the road, there is a street lamp and a no parking sign. The trees on the left side are green and there is grass on the ground. The image is taken from a high angle, looking down the road towards the horizon. LABELS: The road, The sky, a street lamp, The trees, grass","DESCRIPTION:
+The image depicts a wide, two-lane road that extends into the distance, curving slightly to the right. The road is surrounded by lush greenery, with trees and grass on both sides. There are no vehicles or pedestrians visible on the road. On the left side of the road, there is a metal pole with a street sign attached to it. The road surface shows signs of wear with visible cracks and patches. The sky is clear, suggesting a sunny day.
+
+LABELS:
+- Road
+- Trees
+- Grass
+- Street sign
+- Metal pole
+- Cracks on the road
+- Patches on the road"

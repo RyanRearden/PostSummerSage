@@ -1,0 +1,505 @@
+img,Description,Ground Truth
+downloaded_images_W07B/2024-10-28 00:52:06.157243338+00:00.jpg,"DESCRIPTION: The image is an aerial view of a busy street at night. The street is lined with buildings on both sides and there are several cars parked on the right side of the road. The buildings are lit up with colorful lights, creating a vibrant atmosphere. In the center of the image, there is a zebra crossing with white lines and a red crosswalk. There are several people walking on the sidewalk, some of them are carrying bags, while others are walking towards the intersection. The sky is dark, indicating that it is nighttime. LABELS: several cars, The buildings, a zebra crossing, several people, bags, others, The sky, police car at night with flashing lights, black car on street at night, police car on city street at dusk, police car, CCTV footage of person walking on street with black bag, CCTV image of man in black hoodie walking on sidewalk, CCTV camera footage of man walking on stairs at night, CCTV images of people walking on escalator at night, CCTV video of man with backpack and camera, CCTV photo of man on escalators at night, CCTV of man wearing black hooded jacket and white shirt, CCTV scan of man's face with black jacket and blue jeans, CCTV view of man and woman walking on busy street at street at Night, CCTV surveillance image of police car at traffic light, CCTV screen of man suspected of murder at night, CCCCTV screenshot of man carrying woman on shoulder at night, CCTV still of woman with long black hair and blue jacket, CCTV security camera footage, CCTVTV footage, CCTV scene of man holding gun at night, traffic light","DESCRIPTION:
+The image depicts a nighttime scene at an urban intersection. The perspective is from an elevated viewpoint, possibly a traffic camera or a high vantage point. The street is illuminated by artificial lighting, casting a yellowish hue over the scene.
+
+- **Objects**: 
+  - Several cars are present, including a white car with blue lights on its roof, which appears to be a police vehicle.
+  - A group of pedestrians is crossing the street using a zebra crossing.
+  - Traffic lights are visible, showing red signals for vehicles and green for pedestrians.
+  - Buildings line the sides of the street, their windows glowing with interior lights.
+  - Streetlights and traffic signs are scattered around the intersection.
+
+- **Colors**:
+  - Predominant colors include the yellowish glow from the streetlights, the white and blue of the police car, and the various colors of the other vehicles.
+  - Pedestrians are dressed in dark clothing, contrasting with the lighter pavement.
+
+- **Arrangements**:
+  - The police car is positioned near the center of the intersection, with its lights flashing.
+  - Pedestrians are spread out across the zebra crossing, moving from one side to the other.
+  - Vehicles are stopped at the intersection, waiting for the traffic light to change.
+  - The buildings form a rectangular frame around the intersection, with their facades aligned parallel to the street.
+
+- **Context**:
+  - The scene suggests a routine city night with active traffic management.
+  - The presence of the police car indicates some form of official activity or response to an incident.
+  - The pedestrian crossing is clearly marked, ensuring safety for those crossing the street.
+
+LABELS:
+- Police car
+- Zebra crossing
+- Pedestrians
+- Traffic lights
+- Streetlights
+- Buildings
+- Vehicles"
+downloaded_images_W07B/2024-11-01 01:52:31.567962874+00:00.jpg,"DESCRIPTION: The image is an aerial view of a busy street at night. The street is lined with tall buildings on both sides and there are several cars parked on the side of the road. The sky is dark and the street is lit up with streetlights. In the center of the image, there is a white car parked on a zebra crossing. There are several people walking on the sidewalk and a few cars driving on the street. On the right side, there are buildings with colorful lights. The image appears to be taken from a high angle, looking down on the intersection. LABELS: several cars, The sky, a white car, several people, buildings, white SUV with roof rack on street at night, car, blue car, night, street light, wheel","DESCRIPTION:
+The image depicts a nighttime scene at an urban intersection. The perspective is from an elevated viewpoint, possibly a traffic camera or a high vantage point. The intersection features multiple lanes with white crosswalk markings and traffic lights.
+
+- **Objects**: There are several vehicles on the road, including a white car in the center lane, a silver car to its right, and a blue car further back. Pedestrians are visible crossing the street, some of whom are wearing bright clothing like red and orange jackets. Traffic lights are present at various points around the intersection, with one showing a red signal.
+
+- **Colors**: Predominant colors include the white of the crosswalk markings, the gray of the asphalt, and the various colors of the cars and pedestrians' clothing. The night setting casts shadows and highlights artificial lighting, giving the scene a dark ambiance.
+
+- **Arrangements**: The white car is positioned in the middle of the intersection, seemingly stopped or moving slowly. The silver car is closer to the curb, also appearing stationary. Pedestrians are scattered across the crosswalk, indicating they are either crossing or waiting to cross. Traffic lights are evenly spaced around the intersection, ensuring visibility for drivers and pedestrians.
+
+- **Context**: This scene likely represents a typical urban environment during nighttime, with traffic and pedestrian movement regulated by traffic signals. The presence of crosswalks and traffic lights suggests adherence to traffic rules and safety measures.
+
+LABELS:
+- White car
+- Silver car
+- Blue car
+- Red jacket
+- Orange jacket
+- Crosswalk
+- Traffic light
+- Pedestrian
+- Nighttime setting"
+downloaded_images_W07B/2024-11-01 20:02:22.195443328+00:00.jpg,"DESCRIPTION: The image is an aerial view of a busy street in a city. The street is lined with tall buildings on both sides and there are several cars and buses on the road. The sky is blue and the sun is setting, casting a warm glow over the scene. There are a few people walking on the sidewalk on the right side of the street and a few cars parked on the left side. In the center of the image, there is a zebra crossing with white lines and a yellow bus in the background. The zebra crossings are marked with red and white lines, indicating that the street is crossing the street. The image appears to be taken from a high vantage point, looking down on the street from above. LABELS: several cars, The sky, few people, a zebra crossing, bus, The zebra crossings, traffic jam on busy street with cars and trucks, white car with black roof rack on street, A black car parked on the side of a street., A silver car with a license plate that reads ""GALL TOPOD"" on it., A green car parked in a parking lot next to a white van., green car, street light, car, truck, wheel, person, traffic light, traffic sign, traffic cone, traffic signal, trafficffic light, traffic cones, traffic signals, traffic signs, traffic lights, traffic camera, walking shoe, traffic meter","DESCRIPTION:
+The image depicts a bustling city intersection from an aerial perspective. The scene is filled with various vehicles, including cars, buses, and taxis, all navigating the crossroads. Pedestrians are visible on the sidewalks, waiting to cross or walking along the streets. Traffic lights are present at multiple points, controlling the flow of traffic. Buildings line the periphery of the intersection, suggesting a dense urban environment.
+
+Prominent colors in the image include the gray of the asphalt, the white of the pedestrian crosswalk lines, the green of the taxi, and the yellow of the buses. The sky appears clear, indicating good weather conditions. The arrangement of objects shows a typical city layout with vehicles moving in different directions, adhering to traffic signals.
+
+The context suggests this is a busy time of day, possibly during rush hour, given the number of vehicles and pedestrians. The presence of multiple traffic lights and the organized movement of vehicles imply a well-regulated traffic system.
+
+LABELS:
+- Intersection
+- Vehicles (cars, buses, taxis)
+- Pedestrians
+- Traffic lights
+- Buildings
+- Crosswalk
+- Asphalt
+- Sky"
+downloaded_images_W07B/2024-11-02 05:26:07.881625955+00:00.jpg,"DESCRIPTION: The image is an aerial view of a busy street at night. The street is lined with tall buildings on both sides and there are street lamps on the left and right sides of the road. The sky is dark and the street is lit up with streetlights. In the center of the image, there is a zebra crossing with white lines and a red crosswalk. There are several cars parked on the street and a few people walking on the sidewalk. The image appears to be taken from a high angle, looking down on the intersection. LABELS: The street, street lamps, The sky, a zebra crossing, several cars, silver car on street at night, night, white SUV with blue lights on street, police car with flashing lights on road at night, wheel, street light, car","DESCRIPTION:
+The image depicts a nighttime scene at an urban intersection. The perspective is from an elevated viewpoint, possibly a traffic camera or a high vantage point. The intersection features multiple lanes with white crosswalk markings and traffic signals at each corner. There are several vehicles present: one car in the foreground on the left side, another car in the middle of the intersection, and two more cars further back on the right side. The streetlights cast a yellowish glow over the scene, illuminating the vehicles and the road surface. Pedestrian sidewalks are visible on both sides of the intersection, and there are no pedestrians in sight. The buildings lining the streets have lit windows, suggesting it's late evening or night.
+
+LABELS:
+- Vehicles (cars)
+- Traffic signals
+- Crosswalk markings
+- Streetlights
+- Sidewalks
+- Buildings"
+downloaded_images_W07B/2024-11-02 11:26:07.477021089+00:00.jpg,"DESCRIPTION: The image is an aerial view of a busy street at night. The street is lined with buildings on both sides and there are street lamps on the left and right sides of the road. The sky is dark and the street is lit up with streetlights. In the center of the image, there is a zebra crossing with white lines and markings on it. There are several cars driving on the street and a few people walking on the sidewalk. The image appears to be taken from a high angle, looking down on the intersection. LABELS: The street, street lamps, The sky, a zebra crossing, several cars, night scene with street lamps and traffic lights, street light, night scene","DESCRIPTION:
+The image depicts a nighttime scene at an urban intersection. The perspective is from an elevated viewpoint, possibly a traffic camera or a high vantage point. The road surface is wet, reflecting the lights from the surrounding street lamps and vehicles, indicating recent rain. There are multiple lanes marked with white lines, including pedestrian crosswalks that are clearly visible. The crosswalks have faded paint, suggesting they have been there for some time.
+
+Several vehicles are present in the image, with their headlights on, navigating through the intersection. The traffic lights are visible, showing green signals, allowing the cars to proceed. Pedestrian traffic lights are also present, but no pedestrians are seen crossing the street at this moment. The sidewalks are lined with street lamps providing illumination, and there are buildings on either side of the intersection, though their details are not clearly visible due to the darkness.
+
+The overall atmosphere is quiet and calm, typical of a city street during late hours when traffic is minimal. The image captures the essence of urban nightlife, with the interplay of artificial lighting against the dark sky.
+
+LABELS:
+- Traffic intersection
+- Wet road surface
+- White crosswalk markings
+- Faded paint on crosswalks
+- Multiple lanes with lane markings
+- Vehicles with headlights
+- Green traffic lights
+- Street lamps
+- Buildings on either side of the intersection
+- Nighttime setting"
+downloaded_images_W07B/2024-11-02 15:52:23.575500938+00:00.jpg,"DESCRIPTION: The image is an aerial view of a busy street in a city. The street is empty, with no cars or people visible. The pavement is made of concrete and has a zebra crossing in the center. There are several square structures scattered across the street, including a manhole cover and a pedestrian crossing. On the right side of the image, there are tall buildings and a few people walking on the sidewalk. The sky is blue and there are trees and buildings in the background. The image appears to be taken from a high vantage point, looking down on the street. LABELS: several square structures, tall buildings, The sky, A view of a busy street with cars and people on it., A person sitting on a bench with a backpack on their back., A person on a skateboard with a helmet on., A white van parked on the side of a street., A white car with a red stripe on the front of it., A white truck with a blue stripe on it is parked on a street corner., A red car with the number 7 on the back of it is driving on a road., A red van with a white stripe on top of it on a city street., A white pickup truck parked on top., A white SUV with a black stripe on its side., A person is standing on a sidewalk next to a building., A person wearing a black jacket and a white hat., A person standing on the sidewalk with their back to the camera.","DESCRIPTION:
+The image depicts an aerial view of a city intersection during the daytime. The scene is captured from a high vantage point, likely from a traffic camera or similar surveillance system. The intersection features multiple lanes with white crosswalk markings and a central median. There are several vehicles on the road, including cars and a red car in the center lane. Pedestrians are visible on the sidewalks, some waiting to cross the street at the crosswalks. The surrounding area includes buildings, trees, and streetlights. The sky is clear, suggesting good weather conditions.
+
+LABELS:
+- Intersection
+- Crosswalk
+- Vehicles (cars)
+- Red car
+- Pedestrians
+- Sidewalks
+- Buildings
+- Trees
+- Streetlights
+- Clear sky"
+downloaded_images_W07B/2024-11-02 18:26:07.791665931+00:00.jpg,"DESCRIPTION: The image is an aerial view of a busy street in a city. The street is divided into two sections, with a zebra crossing in the center. The zebra crossings are white and appear to be made of concrete. There are several cars parked on the street, and a few people walking on the sidewalk on the right side of the image. On the left side, there are tall buildings and trees. The sky is blue and there are a few clouds in the distance. The image appears to be taken from a high vantage point, looking down on the intersection. LABELS: The zebra crossings, several cars, tall buildings, The sky, Aerial view of busy street with cars and people walking on sidewalk., Aerial shot of a busy street in a city with tall buildings., Aerial footage of a person walking on a sidewalk with a skateboard., Aerial image of a silver car on a city street., A silver car with a license plate that reads ""Jaguar XJ8"" on the side of the road., A silver SUV parked on a street with other cars in the background., A silver pickup truck, A black car parked on the street with a person standing next to it., A black and white photo of a man in a suit and tie., A black pickup truck with a white stripe on the hood., A black SUV with a red stripe on it., A black truck with the number 1 on the back of it., A black van with a yellow stripe on top of it is parked on street., A black man in black jacket and a white shirt is walking on the sidewalk., A black dog is walking in a parking lot., street light, person","DESCRIPTION:
+The image depicts a bustling city intersection with multiple lanes of traffic and pedestrians. The scene is captured from an elevated perspective, likely from a traffic camera or similar surveillance device. The road is marked with white crosswalk lines, indicating pedestrian crossing areas. There are several cars in motion, including a silver sedan driving through the intersection, while others are waiting at the stop lines. Pedestrians are scattered across the sidewalks and crosswalks, some walking alone and others in groups. The surrounding environment includes tall buildings, trees, and streetlights, suggesting an urban setting.
+
+The sky is partly cloudy, casting shadows on the ground and giving the scene a dynamic lighting effect. The colors in the image are predominantly neutral tones, with the gray of the asphalt, the various shades of the cars, and the muted colors of the buildings and pedestrians' clothing. Greenery from the trees adds a touch of color to the otherwise monochromatic palette.
+
+The arrangement of objects shows a typical cityscape with vehicles following traffic rules and pedestrians adhering to the crosswalk signals. The intersection appears well-maintained, with clear markings and functioning traffic lights.
+
+LABELS:
+- Traffic intersection
+- Crosswalk lines
+- Cars (silver sedan, others)
+- Pedestrians
+- Tall buildings
+- Trees
+- Streetlights
+- Partly cloudy sky"
+downloaded_images_W07B/2024-11-03 08:02:33.957443558+00:00.jpg,"DESCRIPTION: The image is an aerial view of a busy street at night. The street is lined with buildings on both sides and there are street lamps on the left and right sides of the road. The sky is dark and the street is lit up with streetlights. In the center of the image, there is a zebra crossing with white lines and a red crosswalk. There are several cars parked on the street and a few people walking on the sidewalk. The image appears to be taken from a high angle, looking down on the intersection. LABELS: The street, street lamps, The sky, a zebra crossing, several cars, A black car parked on a street at night., A black SUV parked on the side of a street., street light, wheel, car","DESCRIPTION:
+The image depicts a nighttime scene at an urban intersection. The perspective is from an elevated viewpoint, possibly a traffic camera or a high vantage point. The street is illuminated by artificial lighting, casting a yellowish hue over the scene. There are multiple lanes marked with white lines, and pedestrian crosswalks are visible with their characteristic white stripes.
+
+In the foreground, two cars are stopped at the intersection. One car is closer to the camera, appearing larger and more detailed, while the other is further away. Both vehicles have their headlights on, contributing to the overall brightness of the scene. Traffic lights are present at various points around the intersection, with some showing red signals, indicating a stop command for the vehicles.
+
+On the right side of the image, there is a sidewalk with a few pedestrians walking along it. The buildings lining the street are not clearly visible due to the darkness and the angle of the shot. Streetlights and other urban infrastructure elements such as poles and signs are scattered throughout the scene, providing guidance and illumination.
+
+The background shows additional lanes extending into the distance, with no visible traffic. The overall atmosphere suggests a quiet city street during late hours when traffic is minimal.
+
+LABELS:
+- Cars
+- Intersection
+- Crosswalks
+- Traffic lights
+- Sidewalk
+- Pedestrians
+- Streetlights
+- Urban infrastructure"
+downloaded_images_W07B/2024-11-05 23:02:35.619012886+00:00.jpg,"DESCRIPTION: The image is an aerial view of a busy street at night. The street is wet and there are people walking on the sidewalk, some of them holding umbrellas. The zebra crossing is in the center of the image and is surrounded by buildings on both sides. The buildings are lit up with colorful lights and there is a large archway in the background. The sky is dark and it appears to be raining. The image is taken from a high angle, looking down on the street. LABELS: umbrellas, The zebra crossing, The buildings, a large archway, The sky, CCTV footage of person walking on street at night with umbrella, CCTV image of person with black jacket and hat, CCTV camera footage of man walking on sidewalk with umbrella, CCTV surveillance image of man with black bag and hat, CCTV video of man in black jacket walking on stairs, CCTV screen with man walking and dog on street, CCTV still of man on skateboard in dark room with blue lights, CCTV photo of man wearing black jacket with white stripes and hat, CCTV security camera footage with man in suit and hat, CCTV scan of man's face with black hat and black jacket, walking shoe","DESCRIPTION:
+The image depicts a nighttime scene of an urban street intersection, captured through a fisheye lens that creates a distorted, wide-angle view. The street is wet, likely from recent rain, and the reflections of lights on the wet surface add to the visual complexity. There are multiple white pedestrian crosswalk lines on the road, which appear faded and worn. A few people are visible, some holding umbrellas, indicating it might still be raining or has recently stopped. The individuals are scattered across the scene, with one person crossing the street near the center of the image.
+
+On the left side of the image, there's a dark-colored car parked by the curb. The background features buildings with lit windows, contributing to the urban atmosphere. Streetlights and traffic signals are present, illuminating the scene with a mix of warm and cool tones. The overall color palette consists of grays, blacks, and whites due to the night setting and wet conditions, contrasted with the occasional bright colors from the lights and reflections.
+
+The image captures the essence of a city at night, with elements like the crosswalk, pedestrians, and vehicles suggesting a typical urban environment. The fisheye effect adds a dramatic touch, emphasizing the expanse of the scene while distorting the perspective.
+
+LABELS:
+- Fisheye lens
+- Urban street intersection
+- Wet road surface
+- White pedestrian crosswalk lines
+- People (some with umbrellas)
+- Dark-colored car
+- Buildings with lit windows
+- Streetlights and traffic signals
+- Nighttime setting"
+downloaded_images_W07B/2024-11-08 06:02:40.069525672+00:00.jpg,"DESCRIPTION: The image is an aerial view of a busy street at night. The street is lined with tall buildings on both sides and there are several cars parked on the left side of the road. In the center of the image, there is a pedestrian crossing with white zebra crossings. A person is walking across the crosswalk and appears to be crossing the street. On the right side, there are a few people walking on the sidewalk. A red ambulance can be seen in the background. The sky is dark and the street is lit up with streetlights. LABELS: several cars, a pedestrian crossing, A person, a few people, A red ambulance, The sky, white car with blue lights on street at night, car, police van with flashing lights on city street at dusk, CCTV footage of white car with black stripes, CCTV image of man walking on street with backpack, street light, night scene with people walking on sidewalk and street lamps, CCTV camera footage of man with backpack and phone, CCTV video of man in black jacket and blue jeans walking on pavement, CCTV photo of man wearing black jacket with blue jeans and white sneakers, CCTV images of man and woman in black jackets and white pants, CCTV surveillance image of white SUV with blue stripes, CCTV security camera footage with blue light, traffic light, walking shoe, traffic sign","DESCRIPTION:
+The image depicts a nighttime scene at an urban intersection. The perspective is from above, likely taken by a security camera or similar surveillance device. The street is illuminated by artificial lighting, casting shadows and creating a contrast between light and dark areas.
+
+- **Objects**: 
+  - A pedestrian is crossing the street using a zebra crossing.
+  - Several vehicles are present: a white ambulance with flashing lights in the center of the intersection, a car to its left, and another vehicle partially visible on the far left.
+  - Traffic lights are visible at various points around the intersection, some showing red signals.
+  - Streetlights line the sides of the road, providing illumination.
+  - Buildings flank the sides of the street, their windows reflecting the ambient light.
+  - There are also several manholes and utility covers embedded in the pavement.
+
+- **Colors**:
+  - Predominant colors include the white of the zebra crossing, the red of the traffic lights, and the various colors of the vehicles.
+  - The overall color palette is dominated by shades of gray and black due to the night setting, with splashes of color from the lights and vehicles.
+
+- **Arrangements**:
+  - The pedestrian is centrally located within the zebra crossing, moving from one side of the street to the other.
+  - The ambulance is positioned in the middle of the intersection, suggesting it may be responding to an emergency.
+  - Vehicles are positioned in such a way that they are either stopped or moving slowly, adhering to the traffic rules indicated by the traffic lights.
+  - The buildings and streetlights create a linear pattern along the sides of the street, leading the viewer's eye towards the center of the intersection.
+
+- **Context**:
+  - The scene suggests a typical urban environment during nighttime, with emergency services potentially responding to a situation.
+  - The presence of the pedestrian and vehicles indicates active use of the intersection despite the late hour.
+
+LABELS:
+- pedestrian
+- zebra crossing
+- ambulance
+- traffic lights
+- streetlights
+- vehicles
+- buildings
+- manholes
+- utility covers"
+downloaded_images_W07B/2024-11-09 07:52:37.782085737+00:00.jpg,"DESCRIPTION: The image is an aerial view of a busy street at night. The street is empty, with no cars or people visible. The sky is dark, and the street is lit up with streetlights. On the right side of the image, there is a building with a yellow facade, and on the left side, there are several cars parked on the sidewalk. In the center of the street, there appears to be a zebra crossing, with white lines marking the lanes. There are also several manhole covers on the ground, likely for pedestrians to cross the street. The image is taken from a high angle, looking down on the street and the buildings. LABELS: The sky, a building, several cars, In the center of the street, there appears to be a zebra crossing, with white lines marking the lanes, several manhole covers, street light, night scene with street lamp and traffic lights","DESCRIPTION:
+The image depicts an aerial view of a city intersection at night. The scene is illuminated by streetlights and traffic signals, casting a warm glow on the asphalt. There are multiple lanes marked with white lines, including pedestrian crosswalks that are clearly visible. A few cars are present in the scene, one of which appears to be stopped at a red light. Traffic lights are positioned at various points around the intersection, with some showing red signals. Pedestrian crossings are marked with white stripes, and there are manholes embedded in the road surface. Buildings line the sides of the street, their windows reflecting the ambient light.
+
+LABELS:
+- Intersection
+- Nighttime
+- Streetlights
+- Traffic signals
+- Cars
+- Red light
+- White lines (crosswalks)
+- Manholes
+- Buildings"
+downloaded_images_W07B/2024-11-10 20:13:07.786407521+00:00.jpg,"DESCRIPTION: The image is an aerial view of a busy street in a city. The street is empty, with no cars or people visible. The pavement is made up of white zebra crossing lines, and there are several cars and buses on the road. On the left side of the image, there is a large crowd of people walking on the sidewalk, and on the right side, there are tall buildings. The sky is blue, and the street is lined with trees and lampposts. In the center of the street, a person is walking on a sidewalk with a pink hat on their head. The image appears to be taken from a high vantage point, looking down on the street. LABELS: The pavement, several cars, buses, a large crowd, tall buildings, The sky, a person, hat, A blue car parked on the side of a street next to a building., Aerial view of bus on busy street with people walking on sidewalk., Aerial footage of a person walking on a sidewalk with a skateboard., A blurry image of a group of people on a street., car, A blurry view of a car on a city street., A blurry photo of a man walking on the sidewalk., wheel","DESCRIPTION:
+The image depicts a bustling city intersection from an aerial perspective. The scene is dominated by a large, multi-lane road with white crosswalk markings that are somewhat faded and worn. There are multiple traffic lights visible, some showing red signals, indicating a stop command for vehicles.
+
+On the left side of the image, there's a blue car stopped at the intersection, waiting for the light to change. Pedestrians are scattered across the scene, some crossing the street using the crosswalks, while others are standing on the sidewalks or waiting at the corners. A few individuals appear to be in motion, possibly walking or running.
+
+In the background, there are tall buildings lining the streets, suggesting an urban environment. Trees can be seen along the edges of the image, providing a touch of greenery amidst the concrete structures. The sky is overcast, casting a soft, diffused light over the scene.
+
+The right side of the image shows more pedestrians, some of whom are carrying items like backpacks and handbags. There's also a bus visible, indicating public transportation is available in this area.
+
+Overall, the image captures a typical moment in a busy city where people and vehicles coexist in a shared space, adhering to traffic rules and navigating through the urban landscape.
+
+LABELS:
+- Intersection
+- Multi-lane road
+- White crosswalk markings
+- Traffic lights
+- Blue car
+- Pedestrians
+- Tall buildings
+- Trees
+- Overcast sky
+- Bus"
+downloaded_images_W07B/2024-11-13 00:39:07.863530042+00:00.jpg,"DESCRIPTION: The image is an aerial view of a busy street at night. The street is lined with tall buildings on both sides, and there are several cars and trucks driving on the road. In the center of the image, there is a blue and white bus with the number 659 on the side. The bus is stopped at a crosswalk and appears to be in motion. There are several people walking on the sidewalk, and a few cars are driving in the background. The sky is dark, indicating that it is nighttime. LABELS: several cars, a blue, bus, number, The bus, several people, few cars, The sky, blue and white bus on city street at night, CCTV footage of black SUV on street at dusk, CCTV image of white car on street with blue lights, CCTV still of blue car on road at night, CCTV scan of white van on street, CCTV camera footage of man walking on street, CCTV images of people walking on sidewalk at night, CCTV video of man in black jacket walking on pavement with cane, CCTV of man with backpack walking on stairs, CCTV photo of man on street in dark room with red light, CCTV view of man wearing black jacket and white shirt, CCTV surveillance image of man's face in black hoodie and black pants, CCTV screenshot of man and woman in black shirt and white pants, CCTV screen of man holding gun in dark alleyway, CCTVTV footage, CCTV security camera footage, CCTV scene of man carrying black bag on street, car","DESCRIPTION:
+The image depicts a bustling city intersection at night. The scene is illuminated by streetlights and the headlights of numerous vehicles. A prominent blue and white bus, numbered 659, is in motion across the intersection, heading towards the bottom right corner of the frame. The bus has its rear lights on, indicating it is either slowing down or stopping.
+
+Surrounding the bus are various cars, some stationary and others moving. There are multiple lanes with traffic signals visible, including a green light that suggests the bus is proceeding legally through the intersection. Pedestrians can be seen on the sidewalks, waiting to cross or walking along the pavement. The architecture of the buildings lining the streets suggests an urban environment, possibly a downtown area.
+
+The road surface appears wet, reflecting the lights from the vehicles and street lamps, which indicates recent rain. The overall atmosphere is one of typical city life during evening hours, with people commuting and vehicles navigating through the busy streets.
+
+LABELS:
+- Bus (blue and white)
+- Bus number (659)
+- Streetlights
+- Cars (various colors)
+- Traffic signals (green light)
+- Pedestrians
+- Buildings
+- Wet road surface"
+downloaded_images_W07B/2024-11-13 03:26:08.256482658+00:00.jpg,"DESCRIPTION: The image is an aerial view of a busy street at night. The street is lined with tall buildings on both sides and there are several cars parked on the side of the road. The sky is dark and the street is lit up with streetlights. In the center of the image, there is a black car with its lights on, driving on a zebra crossing. The car appears to be a police car, as there are other police cars visible in the background. The image is taken from a high angle, looking down on the street. LABELS: several cars, The sky, a black car, The car, other police cars, police car with flashing lights on street at night, police cars on street with flashing blue lights at night, police cars at night with flashing light, police cars, police cars in parking lot at night, police cars with flashing LED lights at traffic lights at dusk, car, wheel","DESCRIPTION:
+The image depicts a nighttime scene at an urban intersection. The perspective is from an elevated viewpoint, possibly a traffic camera or a high vantage point. The street is illuminated by artificial lighting, casting shadows and creating a contrast between light and dark areas.
+
+- **Objects**: 
+  - Several vehicles are present, including a black car with blue flashing lights in the center of the intersection, suggesting it might be a police vehicle.
+  - Other cars are visible on the periphery, some with their headlights on, indicating they are either moving or stopped.
+  - Traffic lights are visible at various points around the intersection, showing red signals.
+  - Pedestrian crossings are marked with white stripes on the road surface.
+  - Streetlights line the edges of the intersection, providing illumination.
+  - Buildings flank the sides of the intersection, their windows reflecting the ambient light.
+  - There are no pedestrians visible in the image.
+
+- **Colors**:
+  - Predominant colors include the dark asphalt of the road, the white of the pedestrian crossings, and the red of the traffic lights.
+  - The blue flashing lights on the central car stand out against the darker surroundings.
+  - The buildings have muted tones due to the nighttime setting.
+
+- **Arrangements**:
+  - The black car with blue lights is positioned centrally, drawing attention as the focal point.
+  - The other vehicles are scattered around the intersection, some closer to the camera and others further away.
+  - Traffic lights are evenly spaced along the intersection's perimeter, ensuring visibility for drivers.
+  - The pedestrian crossings are parallel and perpendicular to each other, forming a grid pattern on the road.
+
+- **Context**:
+  - The scene suggests a controlled situation, possibly a traffic stop or an emergency response given the presence of the police car.
+  - The absence of pedestrians indicates that this might be a less busy time of the night or a controlled area where foot traffic is minimal.
+
+LABELS:
+- Black car with blue flashing lights
+- Police vehicle
+- Traffic lights (red)
+- Pedestrian crossings (white stripes)
+- Streetlights
+- Buildings
+- Vehicles (various colors)
+- Nighttime setting"
+downloaded_images_W07B/2024-11-13 06:01:57.965703958+00:00.jpg,"DESCRIPTION: The image is an aerial view of a busy street at night. The street is lined with tall buildings on both sides, and there are several cars driving on the road. The sky is dark, and the street is lit up with streetlights. In the center of the image, there is a crosswalk with white lines and a white car parked on the sidewalk. On the right side of the street, there are stairs leading up to a bus stop. The image appears to be taken from a high vantage point, looking down on the street. LABELS: The street, several cars, The sky, a crosswalk, a white car, stairs, white sports car on street at night, white car on city street at dusk, night, car, street light, wheel","DESCRIPTION:
+The image depicts a nighttime scene at an urban intersection. The perspective is from an elevated viewpoint, possibly a traffic camera or a high vantage point. The street is illuminated by artificial lighting, casting a yellowish hue over the scene. There are multiple vehicles present, including a white car in the foreground that appears to be turning right onto the main road. Other cars are visible in the background, some with their headlights on, suggesting they are either moving or stopped at the intersection.
+
+The intersection itself has clearly marked pedestrian crosswalks and traffic lanes, which are white and appear to be slightly faded, indicating regular use. There are also several manholes and utility access points embedded in the pavement. On the right side of the image, there's a building with large windows, reflecting the lights from the street. Traffic lights are visible at various points around the intersection, although their colors are not discernible due to the distance and angle.
+
+The overall atmosphere is quiet and orderly, typical of a city street during off-peak hours. There are no pedestrians visible, and the traffic seems light, contributing to the calmness of the scene.
+
+LABELS:
+- White car
+- Intersection
+- Pedestrian crosswalks
+- Traffic lanes
+- Manholes
+- Utility access points
+- Building with large windows
+- Traffic lights
+- Artificial lighting"
+downloaded_images_W07B/2024-11-13 07:52:43.364621360+00:00.jpg,"DESCRIPTION: The image is an aerial view of a busy street at night. The street is empty, with no cars or people visible. The sky is dark, and the street is lit up with streetlights. On the right side of the image, there is a tall building with a yellow facade. In the center of the street, there are two zebra crossing lines, one on each side. The zebra crossings are white and appear to be made of concrete. There are several manhole covers on the ground, and a few people can be seen walking on the sidewalk. The image is taken from a high angle, looking down on the street. LABELS: The sky, a tall building, two zebra crossing lines, The zebra crossings, several manhole covers, nighttime street scene with lampposts and traffic lights, street light, nighttime scene with street lamps and traffic cones, nighttime view of street lamps with red lights and blue lights, nighttime photo of street lamp with red light and blue light","DESCRIPTION:
+The image depicts a nighttime scene at an urban intersection. The perspective is from a high vantage point, possibly a traffic camera, capturing the entire crosswalk and part of the surrounding streets. The street is mostly empty with only one car visible in the distance, moving towards the camera's viewpoint. The car has its headlights on, illuminating the road ahead.
+
+The intersection features multiple lanes marked by white lines, including pedestrian crosswalks that are clearly visible. There are also several manholes and utility access points scattered across the pavement. Traffic lights are present at various corners of the intersection, some showing red signals, indicating a stop command for vehicles.
+
+Streetlights line the sides of the road, casting a warm glow that contrasts with the dark sky. Buildings flank the sides of the street, their windows reflecting the ambient light. The overall atmosphere suggests a quiet cityscape during late hours.
+
+LABELS:
+- High-angle view
+- Urban intersection
+- Crosswalk
+- White lane markings
+- Pedestrian crosswalk
+- Car with headlights
+- Traffic lights (red signal)
+- Streetlights
+- Buildings
+- Manholes/Utility access points"
+downloaded_images_W07B/2024-11-13 19:52:48.384521572+00:00.jpg,"DESCRIPTION: The image is an aerial view of a busy street in a city. The street is lined with tall buildings on both sides and there are several cars parked on the side of the road. In the center of the image, there is a white car with a red roof parked in the middle of the street. The car appears to be a luxury model with a sleek design. There are several other cars on the street, including a yellow taxi cab and a red car. The intersection is zebra crossing, which is a type of pedestrian crossing. There is a pedestrian crossing on the right side, and a pedestrian walkway on the left side. The sky is overcast and the overall atmosphere of the scene is busy and bustling. LABELS: The street, several cars, a white car, The car, several other cars, taxi cab, The intersection, a pedestrian crossing, The sky, A white car with a sunroof on a city street., yellow taxi cab, red minivan, traffic jam on busy street with cars and pedestrians, white car, traffic stop with cars on street and people walking on sidewalk, black SUV with license plate on city street, traffic congestion on busy city street, traffic control system on busy road, traffic light, traffic cone, car, wheel, traffic sign, traffic signal light, traffic lights, traffic camera, trail light, traffic meter, traffic lamp","DESCRIPTION:
+The image depicts a bustling city intersection from an aerial perspective. The scene is filled with various vehicles, including cars and a yellow taxi, navigating through the intersection. Pedestrians are visible on the sidewalks and crossing the streets at designated crosswalks. Traffic lights are present at multiple points around the intersection, indicating different phases of traffic flow. Buildings line the periphery of the intersection, suggesting an urban environment. Trees can be seen in the background, adding a touch of greenery to the otherwise concrete landscape.
+
+Objects:
+- Vehicles (cars, taxi)
+- Pedestrians
+- Traffic lights
+- Crosswalks
+- Buildings
+- Trees
+
+Colors:
+- Predominant colors include gray (asphalt), white (crosswalk lines), red (traffic lights), yellow (taxi), and various shades of blue and green (buildings and trees).
+
+Arrangements:
+- Vehicles are positioned at different angles, some waiting at the stop lines, others in motion.
+- Pedestrians are scattered across the scene, some walking along the sidewalks, others crossing the streets.
+- Traffic lights are mounted on poles at intersections, with their colors clearly visible.
+- Crosswalks are marked on the asphalt, guiding pedestrian movement.
+- Buildings encircle the intersection, with windows reflecting the daylight.
+- Trees are located further back, providing a natural contrast to the urban setting.
+
+Context:
+This image captures a typical moment in a busy city where traffic and pedestrians coexist. The presence of traffic lights and crosswalks indicates adherence to traffic rules, while the variety of vehicles suggests a mix of personal and public transportation. The buildings and trees hint at a well-developed urban area with infrastructure for both vehicular and pedestrian traffic.
+
+LABELS:
+- Vehicles
+- Pedestrians
+- Traffic lights
+- Crosswalks
+- Buildings
+- Trees"
+downloaded_images_W07B/2024-11-15 23:52:07.870100974+00:00.jpg,"DESCRIPTION: The image is an aerial view of a busy street at night. The street is lined with tall buildings on both sides, and there are several cars and buses driving on the road. The buildings are lit up with colorful lights, creating a vibrant atmosphere. The sky is dark, indicating that it is nighttime.
+
+In the center of the image, there is a crosswalk with white lines and a few people walking on it. On the left side of the crosswalk, there are a few cars parked on the street, and on the right side, there appears to be a building with a yellow facade. There are also a few trees and other buildings visible in the background. The image appears to have been taken from a high vantage point, looking down on the busy street. LABELS: several cars, buses, The buildings, The sky, a crosswalk, a few cars, a building with a yellow facade, a few trees, police cars at night on busy street at night, black car with blue lights on street at dusk, car, CCTV footage of man walking on street with dog, CCTV image of man in black hoodie walking on sidewalk, CCTV photo of man with dog on street, CCTV camera footage of woman in black jacket and white pants, CCTV video of man on skateboard in parking lot, CCTV surveillance image of black car with red and blue lights, CCTV images of man and woman on street, CCTV of man wearing black hooded jacket and blue jeans on street, CCTV view of man's face in black shirt and jeans on sidewalk, CCTV scan of man sitting on bench with blue jeans and black jacket, CCTV screenshot of man lying on ground with blue shoes, CCTV screen of man suspected of murder in parking garage","DESCRIPTION:
+The image depicts a nighttime urban scene at an intersection. The perspective is from an elevated viewpoint, possibly a traffic camera or a high vantage point. The street is illuminated by artificial lighting, with multiple vehicles and pedestrians present.
+
+- **Objects**: 
+  - A black car is driving through the intersection.
+  - Several other cars are visible on the road, some with their headlights on.
+  - A bus is parked or stopped on the side of the road.
+  - Pedestrians are scattered across the sidewalks and crosswalks.
+  - Traffic lights are visible at various points around the intersection.
+  - Streetlights line the roadsides, casting a yellowish glow.
+  - Buildings flank the sides of the street, their windows lit up.
+
+- **Colors**:
+  - Predominant colors include the dark asphalt of the road, the white and yellow of the streetlights, and the varied colors of the vehicles' headlights and taillights.
+  - Pedestrians wear clothing in various colors, adding splashes of color to the scene.
+
+- **Arrangements**:
+  - The black car is centrally located within the intersection, moving towards the bottom right of the frame.
+  - Other vehicles are positioned around the intersection, some waiting at traffic lights.
+  - Pedestrians are seen crossing the street or standing on the sidewalks, indicating active pedestrian movement.
+  - The buildings and streetlights create a grid-like pattern along the streets.
+
+- **Context**:
+  - The scene suggests a busy city environment during the evening hours.
+  - The presence of both vehicles and pedestrians indicates a well-trafficked area.
+  - The traffic lights and streetlights suggest a controlled and organized urban setting.
+
+LABELS:
+- Black car
+- Vehicles (various colors)
+- Bus
+- Pedestrians
+- Traffic lights
+- Streetlights
+- Buildings
+- Road"
+downloaded_images_W07B/2024-11-16 15:26:16.858098617+00:00.jpg,"DESCRIPTION: The image is an aerial view of a busy intersection in a city. The intersection is made up of multiple zebra crossing lines, with a pedestrian crossing in the center. There are several cars and buses on the road, and a few people walking on the sidewalk. On the right side of the image, there is a tall building with a red awning. The sky is overcast, and there are trees and other buildings visible in the background. The image appears to be taken from a high vantage point, looking down on the intersection. LABELS: several cars, buses, a tall building, The sky, trees, A black car parked on the side of a street next to a traffic light., A white bus on a busy street with people walking on it., A red car parked next to another red car on a street., A person walking on a sidewalk with a backpack., A person wearing a camouflage jacket and carrying a backpack on a city street., A black and white photo of a car parked in a parking lot., A person is walking on the sidewalk with their back to the camera., A person in a black jacket and a white shirt walking on street., A person with a black backpack walking on sidewalk., A black van parked on a concrete surface., A black pickup truck parked on top of a concrete floor., A black SUV parked on street with a person walking behind it., A black man in a suit and tie walking on pavement., A black dog is walking in a crowded area., A black cat is walking away from the camera on a leash., A black woman is walking down a street with other people in the background., A person standing on the street with their arms crossed. The person is wearing a black hoodie and a gray jacket. The image is taken from a high angle, so the focus is on the person and the car., car","DESCRIPTION:
+The image depicts a city street scene with an overhead perspective. In the foreground, there is a pedestrian crosswalk where several people are walking across the street. The individuals appear to be dressed in casual attire suitable for cooler weather, with some carrying bags or wearing backpacks. The crosswalk has white stripes and is marked with various traffic signs and signals.
+
+In the middle ground, there are multiple lanes of traffic with cars, buses, and trucks moving in different directions. The vehicles vary in color and size, with some closer to the camera and others further away. Traffic lights are visible at various points along the street, indicating intersections and pedestrian crossings.
+
+The background shows more of the urban environment with buildings lining the street, trees along the sidewalks, and additional pedestrians waiting at crosswalks. The sky appears overcast, suggesting it might be a cloudy day.
+
+The overall scene conveys a typical day in a busy city with active pedestrian and vehicular movement.
+
+LABELS:
+- Pedestrians
+- Crosswalk
+- Vehicles (cars, buses, trucks)
+- Traffic lights
+- Buildings
+- Trees
+- Overcast sky"
+downloaded_images_W07B/2024-11-18 14:13:17.050154463+00:00.jpg,"DESCRIPTION: The image is an aerial view of a busy street in a city. The street is lined with tall buildings on both sides and there are several vehicles on the road. On the left side of the image, there is a yellow truck with the number 1251 on it, and on the right side, there are two large trucks with the same number on them. The trucks are parked on the side of a street, and there is an intersection with a zebra crossing and a pedestrian crossing. There are also a few people walking on the sidewalk and a few cars driving on the street. The sky is overcast and the street is wet, suggesting that it has recently rained. LABELS: The street, several vehicles, a yellow truck, the number 1251, two large trucks, The trucks, a pedestrian crossing, a few people, few people, The sky, A white bus with the number 1251 on the side of it., A large truck with a red and white logo on the back of it driving down a street., yellow truck on busy street with cars and trucks, yellow truck with red and black stripes on street, yellow truck parked on street with traffic lights and buildings in background, person walking on sidewalk with blue bag and black shoes, person walking with green bag on sidewalk, person walking in parking lot with backpack, wheel, person walking down sidewalk with backpack and camera, bus, person, car, person walking past yellow truck on street, person walking away from camera with red bag, person walking towards yellow truck with black bag on street, person walking to sidewalk with black jacket and blue jeans, person walking by sidewalk with green jacket and black pants, person walking up sidewalk with red jacket and green pants","DESCRIPTION:
+The image depicts a busy urban intersection with multiple vehicles and pedestrians. In the foreground, there is a white bus with the number ""1251"" on its side, indicating it might be part of a public transportation system. The bus is stopped at a traffic light, which is red for vehicles moving in the direction of the bus. To the right of the bus, there is a pedestrian crossing with several people waiting to cross the street. Some individuals are standing while others appear to be walking.
+
+In the middle ground, a large delivery truck with the logo ""Systco"" is driving through the intersection. The truck is turning left onto the main road from a side street. There are also other vehicles, including cars and another bus, visible in the background. The traffic lights are red for these vehicles, suggesting they are waiting for their turn to proceed.
+
+The background shows a row of buildings lining the street, with trees and streetlights interspersed between them. The sky appears overcast, suggesting it might be a cloudy day. The overall scene conveys a typical cityscape with active traffic and pedestrian movement.
+
+LABELS:
+- Bus (white)
+- Delivery truck (Systco)
+- Traffic lights
+- Pedestrian crossing
+- People
+- Cars
+- Buildings
+- Trees
+- Streetlights
+- Overcast sky"
+downloaded_images_W07B/2024-11-18 18:26:18.530558795+00:00.jpg,"DESCRIPTION: The image is an aerial view of a busy street in the rain. The street is wet and there are several cars parked on the side of the road. The cars are of different models and colors, including white, black, and silver. There are also a few people walking on the sidewalk. The sky is grey and cloudy, and the street is lined with trees and buildings on both sides. The image appears to be taken from a high vantage point, looking down on the street. LABELS: several cars, The cars, few people, The sky, black pickup truck on wet street with raindrops, black Volkswagen Golf car with red taillights on wet road, white SUV on wet pavement in rain, gray car parked on street in rainy weather, black car on wet sidewalk in rain, green car on rainy street, car, wheel","DESCRIPTION:
+The image depicts a busy urban intersection on a rainy day. The scene is captured from an elevated perspective, likely from a traffic camera or similar surveillance system. The road surface appears wet, reflecting the light and indicating recent rainfall. There are multiple vehicles in motion, including cars and trucks, navigating through the intersection. Pedestrians can be seen crossing the street at a crosswalk, some holding umbrellas to shield themselves from the rain.
+
+Prominent colors in the image include the gray of the asphalt, the various hues of the vehicles (white, black, green, red), and the muted tones of the surrounding environment due to the overcast weather. The arrangement of objects shows a typical cityscape with vehicles moving in different directions, adhering to traffic signals and lanes. Traffic lights are visible at various points around the intersection, guiding the flow of traffic.
+
+Contextually, this image represents a common urban scenario where people and vehicles coexist in a shared space, with the added challenge of adverse weather conditions. The presence of pedestrians and the variety of vehicles suggest a bustling area, possibly near commercial or residential zones.
+
+LABELS:
+- Rainy intersection
+- Wet asphalt
+- Vehicles (cars, trucks)
+- Pedestrians
+- Crosswalk
+- Umbrellas
+- Traffic lights
+- Overcast sky"
+downloaded_images_W07B/2024-11-19 12:13:08.139018757+00:00.jpg,"DESCRIPTION: The image is an aerial view of a busy street at night. The street is lined with tall buildings on both sides and there are several cars parked on the left side of the road. The sky is dark and the street is wet, indicating that it has recently rained. In the center of the image, there is a zebra crossing with white lines and markings. A person is walking on the sidewalk and appears to be crossing the street. The image is taken from a high angle, looking down on the street and the buildings. LABELS: several cars, The sky, a zebra crossing, A person, A blue car with its lights on the side of a road at night., A person walking on a sidewalk with a black bag on their back., A white car parked on the street at night with its headlights on., street light","DESCRIPTION:
+The image depicts a nighttime scene at an urban intersection. The street is wet, likely from recent rain, and the reflections of lights on the wet surface create a glossy appearance. There are multiple vehicles present, including cars and a truck, some with their headlights on, indicating they are in motion or stopped at traffic lights. Pedestrians can be seen walking on the sidewalks and crossing the street, suggesting that this is a busy area despite the late hour.
+
+The intersection has clearly marked pedestrian crosswalks with white stripes, which are visible in the foreground. There are also traffic signals and streetlights illuminating the area, providing visibility for both pedestrians and drivers. Buildings line the sides of the street, and their windows are lit, adding to the urban atmosphere.
+
+The overall color palette of the image is dominated by dark tones due to the night setting, but there are bright spots from vehicle lights and streetlights that stand out against the darkness. The wet road reflects these lights, creating a contrast between the illuminated areas and the darker surroundings.
+
+LABELS:
+- Wet road
+- Headlights
+- Vehicles (cars, truck)
+- Pedestrians
+- Crosswalks
+- Traffic signals
+- Streetlights
+- Buildings
+- Windows"
+downloaded_images_W07B/2024-11-19 17:39:07.704494314+00:00.jpg,"DESCRIPTION: The image is an aerial view of a busy street in a city. The street is lined with tall buildings on both sides and there are several buses parked on the side of the road. There are several cars and buses on the street, including a white car and a white bus. The sky is cloudy and the street is wet, suggesting that it has recently rained. People are walking on the sidewalk and some are crossing the street. The overall mood of the image is busy and bustling. LABELS: several buses, several cars, The sky, People, A white car with a sunroof on a city street., A white bus with blue and yellow stripes on a busy street., A white and yellow bus on a street with people walking on the sidewalk., A black car parked on the side of a street next to a traffic light., A black van parked on a road with a person walking on it., A gray car, bus, A black and white photo of a bus on the street., A black bus with a yellow stripe on the front., A black truck with a white stripe on it on the road., A black pickup truck with the number 14 on the back., wheel, A black SUV with a license plate that reads ""BOSCH"" on the roof., car","DESCRIPTION:
+The image depicts a bustling city intersection from an aerial perspective. The scene is filled with various vehicles, including cars and buses, indicating heavy traffic. Pedestrians are visible on the sidewalks and crossing the streets, suggesting it's a busy time of day. The road markings are clearly visible, with pedestrian crosswalks painted in white stripes. Traffic lights are present at multiple intersections, controlling the flow of vehicles. Buildings line the sides of the street, and trees can be seen in the background, adding greenery to the urban landscape.
+
+The color palette consists mainly of gray tones from the asphalt and concrete structures, contrasted by the white and yellow hues of the traffic lights and pedestrian signals. There are also splashes of color from the vehicles' paint jobs and the clothing of the pedestrians. The sky appears overcast, casting soft lighting over the scene.
+
+The arrangement of objects shows a typical urban layout with vehicles moving in different directions, some turning while others are waiting at traffic lights. Pedestrians are scattered across the image, some walking alone and others in groups, all navigating the busy streets.
+
+LABELS:
+- Vehicles (cars, buses)
+- Pedestrians
+- Road markings (crosswalks)
+- Traffic lights
+- Buildings
+- Trees
+- Overcast sky"
+downloaded_images_W07B/2024-11-20 20:53:18.790473363+00:00.jpg,"DESCRIPTION: The image is an aerial view of a busy street in a city. The street is divided into two sections, with a zebra crossing in the center. The zebra crossings are white and appear to be made of concrete. There are several cars parked on the street, and a few people walking on the sidewalk. On the right side of the image, there are tall buildings and trees. The sky is overcast, and there are a few clouds in the sky. The image appears to be taken from a high vantage point, looking down on the intersection. LABELS: The zebra crossings, several cars, tall buildings, The sky, Aerial view of white car on street with people walking on sidewalk., Aerial View of a busy street with cars and people walking., A black car parked on the side of a street., A black SUV parked on a street next to a building., Aerial shot of a black car on a city street., black car with license plate and license plate, wheel, car, land vehicle","DESCRIPTION:
+The image depicts an aerial view of a city intersection during the daytime. The scene includes multiple lanes of traffic, marked with white lines for pedestrian crossings and lane dividers. There are several vehicles on the road, including cars and buses, some of which are stopped at traffic lights. Pedestrians are visible on the sidewalks and crossing the streets, indicating active urban life. Buildings line the sides of the street, and there are trees along the sidewalk, adding greenery to the urban landscape. The sky is overcast, suggesting a cloudy day.
+
+LABELS:
+- Intersection
+- Traffic lights
+- Vehicles (cars, buses)
+- Pedestrians
+- Sidewalks
+- Crosswalks
+- Buildings
+- Trees
+- Overcast sky"
+downloaded_images_W07B/2024-11-21 09:13:11.615293654+00:00.jpg,"DESCRIPTION: The image shows an empty street at night. The street is lined with buildings on both sides and there are street lamps on the left and right sides of the road. The sky is dark and the street is lit up with streetlights. In the center of the image, there is a zebra crossing with white lines and markings. The zebra crossings are marked with red and white stripes. There are several manhole covers on the ground, indicating that there are no people or vehicles on the street. The image appears to be taken from a high angle, looking down on the intersection. LABELS: The street, street lamps, The sky, a zebra crossing, The zebra crossings, several manhole covers, night view of street with lampposts and traffic lights, street light","DESCRIPTION:
+The image depicts an aerial view of a city street intersection at night. The scene is illuminated by streetlights and traffic signals, casting a warm glow on the asphalt. The road features multiple lanes with white lane markings and pedestrian crosswalks. There are several manholes and utility access points visible on the pavement. On the right side of the image, there's a sidewalk with a few pedestrians and a bus stop shelter. Buildings line the street, their windows reflecting the ambient light. Traffic lights are present at various points around the intersection, some showing red signals.
+
+LABELS:
+- Street intersection
+- Nighttime setting
+- Streetlights
+- Traffic signals
+- Pedestrian crosswalks
+- Lane markings
+- Manholes
+- Utility access points
+- Sidewalk
+- Bus stop shelter
+- Buildings
+- Pedestrians
+- Red traffic signals"
+Image Path,Description,Description

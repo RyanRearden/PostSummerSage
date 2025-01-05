@@ -1,0 +1,383 @@
+img,Description,Ground Truth
+downloaded_images_W085/2024-09-11 05:26:13.581175993+00:00.jpg,"DESCRIPTION: The image is a night view of a city from a high vantage point. The city is lit up with colorful lights, creating a vibrant and lively atmosphere. The sky is dark, and the buildings are visible in the background. In the foreground, there is a grassy area with trees and bushes, and a road with multiple lanes of traffic. The road appears to be empty, with no cars or people visible. The image is taken from a balcony or balcony railing, overlooking the city below. LABELS: The sky, a grassy area, The road","DESCRIPTION:
+The image depicts a nighttime scene of an urban area, likely captured from a high vantage point. The primary focus is on a well-lit road that cuts through the center of the frame, flanked by sidewalks and grassy areas. Streetlights line both sides of the road, casting a bright white light onto the pavement and creating a stark contrast with the surrounding darkness. 
+
+On either side of the road, there are patches of greenery, including trees and shrubs, which appear dark against the illuminated path. The trees are dense and tall, suggesting a park or a landscaped area adjacent to the road. There are also some buildings visible in the background, their windows glowing with warm light, indicating residential or commercial structures.
+
+In the distance, beyond the immediate street and greenery, there is a cluster of lights that could be another street or a more densely populated area. The sky above is dark, indicating it is late evening or night.
+
+The image has a slightly grainy quality, typical of night-time photography, especially when taken with a long exposure or low light conditions. The overall atmosphere is calm and quiet, with no visible movement or activity on the road or in the surrounding areas.
+
+LABELS:
+- Road
+- Sidewalks
+- Streetlights
+- Trees
+- Shrubs
+- Buildings
+- Greenery
+- Sky"
+downloaded_images_W085/2024-09-11 09:52:13.572929704+00:00.jpg,"DESCRIPTION: The image is a night view of a city from a high vantage point. The city is lit up with colorful lights, creating a beautiful contrast against the dark sky. In the foreground, there is a grassy area with trees and bushes, and in the background, there are several buildings and roads. The buildings appear to be residential or commercial buildings, with a mix of modern and traditional architecture. The roads are empty, with no cars or people visible. The overall atmosphere of the image is peaceful and serene. LABELS: a grassy area, several buildings, The buildings, The roads","DESCRIPTION:
+The image depicts a nighttime scene of an urban area, likely captured from a security camera or similar surveillance device. The view is elevated, looking down on a road that curves gently to the right. The road is illuminated by streetlights, casting a bright white light onto the asphalt. On either side of the road, there are sidewalks lined with trees and shrubs, providing a green contrast to the grey of the pavement. The trees appear to be coniferous, suggesting a location in a region where such vegetation is common.
+
+In the background, there are buildings with lights on, indicating residential or commercial structures. The sky is dark, suggesting it is late evening or night. There are no visible people or moving vehicles, giving the scene a quiet and still atmosphere.
+
+The foreground shows a railing, possibly part of a balcony or viewing platform, which frames the lower edge of the image. This railing is metallic and has a reflective surface, catching some of the light from the street lamps.
+
+The overall color palette consists of dark blues and blacks for the night sky and shadows, contrasting with the bright white of the streetlights and the various shades of green from the foliage. The road itself appears as a grey ribbon cutting through the scene.
+
+LABELS:
+- Road
+- Streetlights
+- Sidewalks
+- Trees
+- Shrubs
+- Buildings
+- Sky
+- Railing"
+downloaded_images_W085/2024-09-11 12:00:32.717465483+00:00.jpg,"DESCRIPTION: The image shows a view from a high vantage point of a residential area. The sky is overcast and the ground is covered in greenery. In the center of the image, there is a large grassy area with trees and bushes scattered throughout. On the left side of the photo, there are several roads and highways, and on the right side, there appears to be a parking lot with a few cars parked on the side. There are also several buildings and houses visible in the distance. The image is taken from a balcony or observation deck, looking down on the street below. LABELS: The sky, a large grassy area, several roads, a parking lot, several buildings","DESCRIPTION:
+The image is an aerial view of a suburban area. In the foreground, there is a curved white railing that appears to be part of a balcony or walkway. Beyond the railing, there is a wide, multi-lane road with light traffic. The road is flanked by sidewalks and grassy areas with trees and shrubs. On one side of the road, there are several buildings, including apartment complexes and commercial structures. The buildings have various colors, predominantly in shades of beige, brown, and gray. There are also patches of greenery interspersed among the buildings. The sky is overcast, giving the scene a muted color palette.
+
+The road curves gently around the landscape, and there are traffic lights visible at intersections. The overall setting suggests a well-planned urban environment with a mix of residential and commercial zones. The presence of the railing indicates that the photo might have been taken from a higher vantage point, such as a building overlooking the street.
+
+LABELS:
+- Curved white railing
+- Multi-lane road
+- Sidewalks
+- Grass and trees
+- Buildings (apartment complexes, commercial structures)
+- Overcast sky
+- Traffic lights"
+downloaded_images_W085/2024-09-11 15:26:14.307964107+00:00.jpg,"DESCRIPTION: The image is an aerial view of a residential area. The photo is taken from a high vantage point, looking down on the street below. The street is lined with trees and shrubs, and there are several buildings visible in the background. The sky is clear and blue, and the overall landscape is green and well-maintained. In the foreground, there is a curved walkway with a railing on the right side. The overall mood of the image is peaceful and serene. LABELS: The photo, several buildings, The sky, a curved walkway","DESCRIPTION:
+The image is an aerial view of a suburban area. In the foreground, there is a curved white railing that appears to be part of a balcony or walkway. Beyond the railing, there is a wide road with multiple lanes, some of which are occupied by vehicles. The road is flanked by sidewalks and grassy areas with trees and bushes. On one side of the road, there is a playground with play structures such as slides and swings. Further back, there are apartment buildings and other residential structures. The sky is overcast, suggesting it might be a cloudy day.
+
+LABELS:
+- Curved white railing
+- Wide road with multiple lanes
+- Sidewalks
+- Grass and trees
+- Playground with play structures
+- Apartment buildings
+- Residential structures
+- Overcast sky"
+downloaded_images_W085/2024-09-11 15:39:13.700201388+00:00.jpg,"DESCRIPTION: The image is an aerial view of a residential area. The photo is taken from a high vantage point, looking down on the street below. The street is lined with trees and shrubs, and there are several buildings visible in the background. On the right side of the image, there is a red car parked on the side of a road. The sky is clear and blue, and the overall landscape is green and well-maintained. LABELS: The photo, several buildings, a red car, The sky","DESCRIPTION:
+The image is an aerial view of a suburban area. In the foreground, there's a curved white railing that suggests the viewpoint might be from a balcony or elevated platform. Beyond the railing, a wide road stretches horizontally across the image, with multiple lanes and a median strip. A red car is visible on the right side of the road, moving away from the viewer. The road is flanked by sidewalks and grassy areas with trees and shrubs.
+
+On either side of the road, there are residential buildings with varying architectural styles. To the left, there are taller structures, possibly apartment complexes, while to the right, there are single-family homes. The buildings have different roof colors, including shades of brown, gray, and beige. There are also patches of greenery interspersed among the buildings, indicating landscaped yards or small parks.
+
+In the background, the landscape extends into more open fields and additional residential areas, creating a sense of depth. The sky is overcast, with no visible clouds, suggesting a calm, possibly early morning or late afternoon setting.
+
+LABELS:
+- Red car
+- White railing
+- Road
+- Sidewalks
+- Grass
+- Trees
+- Buildings (residential)
+- Sky"
+downloaded_images_W085/2024-09-11 21:26:14.630627338+00:00.jpg,"DESCRIPTION: The image is an aerial view of a residential area. The photo is taken from a high vantage point, looking down on the street below. The street is lined with trees and shrubs, and there are several buildings visible in the background. The sky is blue and clear, and the overall landscape is green and well-maintained. In the foreground, there is a curved walkway with a white railing. The walkway appears to be empty, with no cars or people visible. LABELS: The photo, several buildings, The sky, the overall landscape, a curved walkway, The walkway","DESCRIPTION:
+The image is an aerial view of a suburban area with a focus on a road and its surroundings. The road is divided into two lanes, with a black car driving on the right lane. There are sidewalks on both sides of the road, and the area is interspersed with greenery, including trees and grassy patches. On the left side of the road, there is a row of buildings that appear to be residential apartments or condominiums. To the right of the road, there is a playground with play equipment, indicating a park or recreational area. The sky is clear, suggesting fair weather conditions.
+
+LABELS:
+- Road
+- Black car
+- Sidewalks
+- Trees
+- Grass
+- Buildings (residential)
+- Playground equipment
+- Park/recreational area
+- Clear sky"
+downloaded_images_W085/2024-09-12 06:26:13.869516084+00:00.jpg,"DESCRIPTION: The image is an aerial view of a city at night. The city is lit up with colorful lights, creating a vibrant and lively atmosphere. The sky is dark, and the city is surrounded by trees and greenery. In the center of the image, there is a large parking lot with several cars parked on the side of the road. The parking lot is empty, with no people visible in the image. The image appears to be taken from a high vantage point, looking down on the city below. LABELS: The sky, a large parking lot, The parking lot","DESCRIPTION:
+The image depicts a nighttime scene of an urban area. The primary focus is on a well-lit road that cuts through the center of the frame, flanked by sidewalks and grassy areas. Streetlights line both sides of the road, casting a bright white light onto the pavement. There are several trees scattered along the sidewalks, their dark silhouettes contrasting against the illuminated street.
+
+In the background, there are buildings with lights on, suggesting residential or commercial structures. The sky above is dark, indicating it is night time. The overall atmosphere is calm and quiet, with no visible movement or activity on the road or sidewalks.
+
+The image appears to be taken from an elevated position, possibly from a nearby building or a hill, providing a broad view of the area. The lighting conditions suggest that the photo was taken during the evening hours when artificial lights are most prominent.
+
+LABELS:
+- Road
+- Sidewalks
+- Grass
+- Trees
+- Streetlights
+- Buildings
+- Sky"
+downloaded_images_W085/2024-09-12 07:39:14.284616430+00:00.jpg,"DESCRIPTION: The image is an aerial view of a city at night. The city is lit up with colorful lights, creating a vibrant and lively atmosphere. The sky is dark, and the city is surrounded by trees and greenery. In the center of the image, there is a large parking lot with several cars parked on the side of the road. The parking lot is empty, with no people visible in the image. On the right side, there are several buildings and structures, including a large building with a red roof. The image appears to be taken from a high vantage point, looking down on the city below. LABELS: The sky, a large parking lot, The parking lot, several buildings","DESCRIPTION:
+The image depicts a nighttime scene of an urban area with a focus on a well-lit road and surrounding greenery. The road is illuminated by multiple streetlights, casting a bright white light that contrasts with the dark sky. There are several vehicles visible on the road, including cars and a bus, all appearing as small, blurry shapes due to the distance from which the photo was taken. The road curves gently through the scene, bordered by sidewalks and grassy areas.
+
+On either side of the road, there are trees and shrubs, some of which are lit up by the streetlights, creating a pattern of light and shadow. The trees are predominantly evergreens, suggesting a location in a region where such vegetation is common. In the background, there are more buildings and lights, indicating a populated area beyond the immediate foreground.
+
+The overall atmosphere of the image is calm and quiet, typical of a city or town during the night hours. The lighting conditions suggest that the photo was taken after sunset, as the sky is dark and the artificial lights are the primary sources of illumination.
+
+LABELS:
+- Road
+- Streetlights
+- Vehicles (cars, bus)
+- Trees (evergreens)
+- Sidewalks
+- Grass
+- Buildings
+- Sky"
+downloaded_images_W085/2024-09-12 08:13:14.548853886+00:00.jpg,"DESCRIPTION: The image is an aerial view of a city at night. The city is lit up with colorful lights, creating a vibrant and lively atmosphere. The sky is dark, and the buildings are visible in the background. In the foreground, there is a grassy area with trees and bushes, and a road with multiple lanes of traffic. The road appears to be empty, with no cars or people visible. The image is taken from a high vantage point, looking down on the city below. LABELS: The sky, a grassy area, The road","DESCRIPTION:
+The image depicts a nighttime scene of an urban area. The primary focus is on a well-lit road that cuts through the center of the frame, flanked by sidewalks and grassy areas. Streetlights line both sides of the road, casting a bright white light onto the pavement. There are several trees scattered throughout the scene, some of which are illuminated by the streetlights. In the background, there are buildings with lights on, suggesting residential or commercial structures. The sky is dark, indicating it is night.
+
+On the left side of the road, there appears to be a group of people standing near the sidewalk, possibly waiting for something or engaging in conversation. Their exact number is not clear due to the distance and lighting conditions. On the right side of the road, there is a row of parked cars, their colors muted under the artificial lighting. The road itself is mostly empty, with no visible traffic at this moment.
+
+The overall atmosphere is calm and quiet, typical of a suburban area during the night. The image seems to have been taken from an elevated position, providing a broad view of the scene below.
+
+LABELS:
+- Road
+- Sidewalks
+- Grass
+- Trees
+- Streetlights
+- Buildings
+- People
+- Cars
+- Nighttime"
+downloaded_images_W085/2024-09-12 11:52:14.480853553+00:00.jpg,"DESCRIPTION: The image is an aerial view of a residential area. The photo is taken from a high vantage point, looking down on the street below. The street is lined with trees and shrubs, and there are several buildings visible in the background. The sky is clear and blue, and the overall landscape is green and well-maintained. In the foreground, there is a curved walkway with a railing on the right side. The overall mood of the image is peaceful and serene. LABELS: The photo, several buildings, The sky, a curved walkway","DESCRIPTION:
+The image is an aerial view of a suburban area. In the foreground, there is a curved white railing that appears to be part of a balcony or walkway. Beyond the railing, there is a wide, multi-lane road with traffic lights and street signs. The road is flanked by sidewalks and landscaped areas with green grass, trees, and bushes. There are also patches of pink flowers along the roadside. To the left of the road, there is a large open space with more greenery and a playground structure visible in the distance. Further back, there are apartment buildings and commercial structures with various colors such as red, beige, and brown. The sky is overcast, suggesting it might be a cloudy day.
+
+LABELS:
+- Curved white railing
+- Multi-lane road
+- Traffic lights
+- Street signs
+- Sidewalks
+- Green grass
+- Trees
+- Bushes
+- Pink flowers
+- Playground structure
+- Apartment buildings
+- Commercial structures
+- Overcast sky"
+downloaded_images_W085/2024-09-12 12:00:32.744875704+00:00.jpg,"DESCRIPTION: The image is an aerial view of a residential area. The photo is taken from a high vantage point, looking down on the street below. The street is lined with trees and shrubs, and there are several buildings visible in the distance. The sky is overcast, and the overall mood of the image is peaceful and serene. LABELS: The photo, several buildings, The sky","DESCRIPTION:
+The image is an aerial view of a suburban area. In the foreground, there is a curved white railing that appears to be part of a balcony or walkway. Beyond the railing, there is a wide road with multiple lanes, divided by a median strip. The road curves gently to the right and is lined with trees and shrubs on both sides. There are also sidewalks parallel to the road.
+
+On either side of the road, there are patches of green grass interspersed with trees. To the left of the road, there is a large open space with a playground structure visible in the distance. Further back, there are several multi-story buildings, likely residential apartments or condominiums, with varying colors such as beige, brown, and red.
+
+To the right of the road, there is another building with a red roof, possibly a commercial establishment like a store or restaurant. The area is well-maintained with manicured lawns and landscaped areas. The sky is overcast, suggesting it might be a cloudy day.
+
+LABELS:
+- Curved white railing
+- Wide road with multiple lanes
+- Median strip
+- Sidewalks
+- Trees and shrubs
+- Open space with playground
+- Multi-story buildings (residential)
+- Building with red roof (commercial)
+- Overcast sky"
+downloaded_images_W085/2024-09-15 01:39:14.232772180+00:00.jpg,"DESCRIPTION: The image is an aerial view of a city at night. The city is lit up with colorful lights, creating a vibrant and lively atmosphere. The sky is dark, and the buildings are visible in the background. In the foreground, there is a grassy area with trees and bushes, and a road with multiple lanes of traffic. The road appears to be empty, with no cars or people visible. The image is taken from a high vantage point, looking down on the city below. LABELS: The sky, a grassy area, The road","DESCRIPTION:
+The image depicts a nighttime scene of an urban area, likely captured from a high vantage point. The foreground features a well-lit pathway with street lamps casting a bright white light onto the concrete surface. This pathway is flanked by green grass and a variety of trees, some of which are illuminated by the street lamps. To the right of the pathway, there is a small garden area with neatly arranged bushes and plants, also lit by the surrounding lamps.
+
+In the middle ground, a multi-lane road stretches horizontally across the image, with traffic moving along it. The vehicles' headlights create streaks of light due to the long exposure of the photograph. On either side of the road, there are sidewalks and additional street lamps providing illumination. The road is bordered by more trees and grassy areas, contributing to the urban park setting.
+
+The background reveals a cityscape with buildings of varying heights. These structures are lit up with lights that appear as small, scattered points against the dark sky. The skyline is not distinctly clear but suggests a densely built-up area. The overall atmosphere is calm and quiet, typical of a city at night.
+
+LABELS:
+- Street lamps
+- Pathway
+- Trees
+- Garden area
+- Road
+- Vehicles
+- Sidewalks
+- Buildings
+- Sky"
+downloaded_images_W085/2024-09-17 03:39:14.366395253+00:00.jpg,"DESCRIPTION: The image is an aerial view of a city at night. The city is lit up with colorful lights, creating a beautiful contrast against the dark sky. In the center of the image, there is a large circular structure that appears to be a bridge or a tunnel. The structure is surrounded by trees and greenery, and there are several roads and buildings visible in the background. The image is taken from a high vantage point, looking down on the city below. LABELS: a large circular structure, several roads","DESCRIPTION:
+The image depicts a nighttime scene of an urban area, likely captured from a security camera or similar surveillance device. The view is slightly distorted, possibly due to the camera lens or reflections on the glass through which the photo was taken. The scene includes a wet road with visible reflections of lights, indicating recent rain. There are several vehicles on the road, including a car in the center and another one further down the street. The road is flanked by sidewalks and grassy areas with trees and bushes. Streetlights illuminate the scene, casting bright spots and creating shadows. In the background, there are buildings with lit windows, contributing to the urban atmosphere.
+
+The image also shows a railing at the bottom, suggesting it might be taken from a balcony or elevated platform. The overall color palette is dominated by dark hues, with the exception of the bright lights that stand out against the night sky. The reflections on the wet road surface add a glossy texture to the scene.
+
+LABELS:
+- Wet road
+- Vehicles (cars)
+- Sidewalks
+- Grass and vegetation
+- Trees and bushes
+- Streetlights
+- Buildings with lit windows
+- Railing"
+downloaded_images_W085/2024-09-17 06:00:35.365374717+00:00.jpg,"DESCRIPTION: The image is an aerial view of a city at night. The city is lit up with colorful lights, creating a vibrant and lively atmosphere. The sky is dark, and the city is surrounded by trees and greenery. In the center of the image, there is a large park with a grassy area and a few trees scattered throughout. On the left side of the park, there are several buildings with multiple levels, and on the right side, there appears to be a parking lot with several cars parked in it. The park is well-maintained and well-manicured, with a few benches and benches for people to sit and enjoy the view. The image is taken from a high vantage point, looking down on the city below. LABELS: The sky, a large park, several buildings, a parking lot, severals cars, The park, a few benches, benches","DESCRIPTION:
+The image is a nighttime view of an urban area, likely captured from a security camera. The scene features a well-lit street with multiple lanes, flanked by sidewalks and grassy areas. Streetlights illuminate the road and surrounding greenery, casting a warm glow on the scene. There are several trees lining the street, their dark silhouettes contrasting against the bright lights. In the background, there are buildings with lit windows, suggesting residential or commercial structures. A red car is visible in the distance, moving along the road. The foreground shows a railing, indicating that the camera might be positioned on a balcony or elevated platform.
+
+LABELS:
+- Street
+- Sidewalk
+- Grass
+- Trees
+- Buildings
+- Streetlights
+- Red car
+- Balcony/railing"
+downloaded_images_W085/2024-09-17 06:26:14.511940959+00:00.jpg,"DESCRIPTION: The image is an aerial view of a city at night. The city is lit up with colorful lights, creating a vibrant and lively atmosphere. The sky is dark, and the buildings are visible in the background. In the foreground, there is a grassy area with trees and bushes, and a road with multiple lanes. The road appears to be empty, with no cars or people visible. The image is taken from a high vantage point, looking down on the city below. LABELS: The sky, a grassy area, The road","DESCRIPTION:
+The image depicts a nighttime scene of an urban area, likely captured from a security camera. The view is elevated, looking down on a road that curves gently to the right. The road is illuminated by streetlights, casting a bright white light onto the asphalt. On either side of the road, there are sidewalks lined with trees and shrubs, providing a green contrast to the grey concrete. The trees are mostly coniferous, suggesting a temperate climate.
+
+In the background, there are buildings with lit windows, indicating residential or commercial structures. The lights from these buildings create a pattern of warm yellow and white spots against the dark sky. The sky itself is dark, suggesting it is late evening or night. There are no visible stars, which could be due to the city's light pollution.
+
+On the left side of the image, there is a railing, possibly part of a balcony or viewing platform, indicating that the camera is mounted at an elevated position. The railing is white and contrasts with the darker tones of the surrounding environment.
+
+The overall scene is quiet and devoid of people or moving vehicles, giving it a serene and still atmosphere. The lighting conditions suggest that the photo was taken during the night when artificial lighting is the primary source of illumination.
+
+LABELS:
+- Road
+- Streetlights
+- Sidewalks
+- Trees
+- Shrubs
+- Buildings
+- Windows
+- Sky
+- Railing"
+downloaded_images_W085/2024-09-17 11:13:14.619007297+00:00.jpg,"DESCRIPTION: The image is an aerial view of a city at night. The city is lit up with colorful lights, creating a vibrant and lively atmosphere. The sky is dark, and the city is surrounded by trees and greenery. In the center of the image, there is a large parking lot with several cars parked on the side of the road. The parking lot is empty, with no people visible in the image. The image appears to be taken from a high vantage point, looking down on the city below. LABELS: The sky, a large parking lot, The parking lot","DESCRIPTION:
+The image depicts a nighttime scene of an urban area, likely captured from an elevated position such as a balcony or rooftop. The foreground features a railing, suggesting the viewpoint is from a raised platform. Below the railing, there is a well-lit pathway with multiple street lamps casting bright white light onto the concrete surface. The pathway is flanked by grassy areas and a variety of trees, some of which are illuminated by the street lamps.
+
+In the middle ground, there is a road with visible traffic, including cars and possibly buses, moving along it. The road is lined with additional street lamps that create a pattern of light and shadow on the asphalt. To the left of the road, there is a sidewalk parallel to the road, also lit by street lamps. On the right side of the road, there appears to be a small park or garden area with more trees and shrubs, some of which are lit up.
+
+In the background, there are buildings with lights on, indicating residential or commercial structures. The skyline is dotted with more street lamps and building lights, creating a sense of depth and distance. The sky above is dark, suggesting it is late evening or night.
+
+LABELS:
+- Elevated platform (foreground)
+- Railing
+- Well-lit pathway
+- Street lamps
+- Grass and trees
+- Road with traffic
+- Sidewalk
+- Park or garden area
+- Buildings with lights
+- Skyline"
+downloaded_images_W085/2024-09-17 12:13:14.262014105+00:00.jpg,"DESCRIPTION: The image is an aerial view of a residential area. The photo is taken from a high vantage point, looking down on the street below. The street is lined with trees and shrubs, and there are several buildings visible in the background. The sky is blue with some clouds, and the overall landscape is green and well-maintained. In the foreground, there is a curved walkway with a railing on the right side. The overall mood of the image is peaceful and serene. LABELS: The photo, several buildings, The sky, a curved walkway","DESCRIPTION:
+The image is an aerial view of a suburban area. In the foreground, there is a paved walkway with a white railing on the left side. The walkway is bordered by a grassy area with several trees and bushes. To the right of the walkway, there is a road with multiple lanes, and traffic lights are visible at intervals along the road. On the opposite side of the road, there is another walkway parallel to the road, also lined with trees and bushes.
+
+In the middle ground, there are residential buildings with varying roof colors, including red, beige, and brown. These buildings are surrounded by more greenery, including lawns and trees. There is a playground area with play structures in the center of this residential section. The background shows more open spaces with patches of greenery and some distant buildings.
+
+The sky is overcast with a mix of clouds, suggesting it might be a cool or cloudy day. There are no people or moving vehicles visible in the image, giving it a calm and quiet atmosphere.
+
+LABELS:
+- Aerial view
+- Suburban area
+- Paved walkway
+- White railing
+- Grass and trees
+- Road with multiple lanes
+- Traffic lights
+- Residential buildings
+- Playground area
+- Overcast sky"
+downloaded_images_W085/2024-09-17 19:26:14.324288805+00:00.jpg,"DESCRIPTION: The image is an aerial view of a residential area. The photo is taken from a high vantage point, looking down on the street below. The street is lined with trees and shrubs, and there are several buildings visible in the background. The sky is blue with some clouds, and the overall landscape is green and well-maintained. In the foreground, there is a curved walkway with a white railing. The walkway appears to be empty, with no cars or people visible. LABELS: The photo, several buildings, The sky, a curved walkway, The walkway","DESCRIPTION:
+The image is an aerial view of a suburban area. In the foreground, there's a paved walkway with a white railing on the left side. The walkway is bordered by a grassy area with several trees and bushes. To the right of the walkway, there's a road with multiple lanes, and a red car is visible driving along it. On the opposite side of the road, there are more trees and a sidewalk. Further back, there's a large open green space that appears to be a park, with a playground structure in the center. Surrounding the park are various buildings, including apartment complexes and single-family homes. The sky is partly cloudy, suggesting it might be a sunny day.
+
+LABELS:
+- Aerial view
+- Paved walkway
+- White railing
+- Grass and trees
+- Red car
+- Road
+- Sidewalk
+- Park
+- Playground structure
+- Apartment complexes
+- Single-family homes
+- Partly cloudy sky"
+downloaded_images_W085/2024-09-17 23:52:13.928950197+00:00.jpg,"DESCRIPTION: The image is an aerial view of a residential area. The photo is taken from a high vantage point, looking down on the street below. The street is lined with trees and shrubs, and there are several buildings visible in the distance. The sky is blue and the sun is shining brightly, casting a warm glow over the scene. In the foreground, there is a curved walkway with a white railing. The overall mood of the image is peaceful and serene. LABELS: The photo, several buildings, The sky, a curved walkway","DESCRIPTION:
+The image is an aerial view of a suburban area during what appears to be either sunrise or sunset, given the low angle of the sun casting long shadows. The scene includes a wide, multi-lane road with several cars in motion. On either side of the road, there are sidewalks and patches of green grass interspersed with trees. To the left, there's a white railing that seems to be part of a balcony or elevated platform. In the background, there are apartment buildings and other residential structures. The sky is clear with a gradient from light blue near the horizon to a deeper shade higher up.
+
+LABELS:
+- Road
+- Cars
+- Sidewalks
+- Trees
+- Grass
+- White railing
+- Apartment buildings
+- Residential structures
+- Sky"
+downloaded_images_W085/2024-09-18 00:13:14.332910297+00:00.jpg,"DESCRIPTION: The image is an aerial view of a residential area. The photo is taken from a high vantage point, looking down on the street below. The street is lined with trees and shrubs, and there are several buildings visible in the distance. The sky is clear and blue, and the sun is shining brightly, casting a warm glow over the scene. In the foreground, there is a curved walkway with a white railing. The overall mood of the image is peaceful and serene. LABELS: The photo, several buildings, The sky, a curved walkway","DESCRIPTION:
+The image is an aerial view of a suburban area during what appears to be either sunrise or sunset, given the low angle of the sun casting long shadows. The scene includes a wide, multi-lane road with light traffic, flanked by sidewalks and grassy areas. There are several trees scattered throughout the landscape, some of which are quite tall and dense, providing shade and greenery. On one side of the road, there is a row of flowering plants adding a splash of color to the scene. Buildings, likely residential apartments or houses, can be seen in the background, interspersed among the trees. The sky is clear with a gradient of colors near the horizon where the sun is located.
+
+LABELS:
+- Road
+- Sidewalks
+- Grass
+- Trees
+- Flowering plants
+- Buildings
+- Sun"
+downloaded_images_W085/2024-09-19 14:20:06.475884485+00:00.jpg,"DESCRIPTION: The image is an aerial view of a residential area. The photo is taken from a high vantage point, looking down on the street below. The street is lined with trees and shrubs, and there are several cars parked on the side of the road. In the background, there is a large grassy area with a few buildings scattered throughout. The sky is blue with some clouds, and the ocean can be seen in the distance. The image appears to be taken from an observation deck or observation deck. LABELS: The photo, several cars, a large grassy area, The sky","DESCRIPTION:
+The image is an aerial view of a suburban area. In the foreground, there's a curved white railing that suggests the viewpoint might be from a balcony or elevated platform. Beyond the railing, a wide road stretches horizontally across the image, with multiple lanes for traffic. There are several cars on the road, including a silver car in the center lane and a black SUV driving on the right side of the road. The road is flanked by sidewalks and grassy areas with trees and shrubs.
+
+On either side of the road, there are buildings. To the left, there are multi-story residential buildings with red and beige facades. Further back, there appears to be a commercial building with a red roof. On the right side, there are single-family homes with various colors and designs. The area is interspersed with green spaces, including lawns and small parks with playground equipment.
+
+In the background, the landscape extends into more residential areas with trees and open fields. The sky is partly cloudy with patches of blue visible between the clouds.
+
+LABELS:
+- Aerial view
+- Suburban area
+- Road with multiple lanes
+- Cars (silver and black)
+- Sidewalks
+- Grass and trees
+- Residential buildings (residential and commercial)
+- Lawns and parks
+- Open fields
+- Partly cloudy sky"
+downloaded_images_W085/2024-10-03 08:40:11.322706098+00:00.jpg,"DESCRIPTION: The image is a black and white aerial view of a city at night. The city appears to be densely populated with buildings and houses. The sky is dark and the city is lit up with streetlights, creating a contrast between the bright lights and the dark sky. In the foreground, there are trees and bushes, and in the background, there is a hill with a few buildings scattered across it. The image is taken from a high vantage point, looking down on the city below. LABELS: The sky, streetlights, trees, a hill","DESCRIPTION:
+The image is a black and white night-time aerial photograph of an urban area. The scene features multiple streets with visible traffic, as indicated by the streaks of light from moving vehicles. The streets are lined with streetlights that cast a bright glow on the asphalt, creating a stark contrast against the dark surroundings. There are trees scattered throughout the area, some of which are illuminated by the streetlights. Buildings can be seen in the background, their windows glowing with artificial light. The overall atmosphere is quiet and serene, typical of a city at night.
+
+LABELS:
+- Urban area
+- Streets
+- Traffic (indicated by light streaks)
+- Streetlights
+- Trees
+- Buildings
+- Black and white photograph"
+downloaded_images_W085/2024-10-14 18:02:54.211185683+00:00.jpg,"DESCRIPTION: The image is an aerial view of a residential area. The photo is taken from a high vantage point, looking down on the street below. The street is lined with trees and shrubs, and there are several buildings visible in the background. The sky is blue with some clouds, and the overall color palette of the image is green, yellow, and orange. There are a few cars parked on the side of the road, and a few people can be seen walking on the sidewalk. The image appears to be taken from an observation deck or observation deck. LABELS: The photo, several buildings, The sky, a few cars, few people","DESCRIPTION:
+The image is an aerial view of a suburban area. In the foreground, there's a road with a red car driving on it. The road is bordered by sidewalks and grassy areas with trees displaying autumn colors. To the left, there's a white railing that seems to be part of a balcony or walkway. Beyond the road, there are more trees and a playground with a slide and a swing set. Further in the background, there are apartment buildings and other residential structures. The sky is partly cloudy with patches of blue.
+
+LABELS:
+- Red car
+- Sidewalk
+- Grass
+- Trees (autumn colors)
+- Playground equipment (slide, swing set)
+- Apartment buildings
+- Residential structures
+- White railing
+- Sky (partly cloudy)"
+downloaded_images_W085/2024-10-15 08:34:09.219190672+00:00.jpg,"DESCRIPTION: The image is an aerial view of a city at night. The city is lit up with colorful lights, creating a vibrant and lively atmosphere. The sky is dark, and the buildings are visible in the background. In the foreground, there is a grassy area with trees and bushes, and a road with multiple lanes. The road appears to be empty, with no cars or people visible. The image is taken from a high vantage point, looking down on the city below. LABELS: The sky, a grassy area, The road","DESCRIPTION:
+The image depicts a nighttime scene of an urban area. The primary focus is on a well-lit road that stretches horizontally across the frame, flanked by sidewalks and grassy areas. Streetlights line both sides of the road, casting a bright white light onto the pavement. There are several trees scattered along the sidewalks, their dark silhouettes contrasting with the illuminated surroundings.
+
+In the background, there are buildings with lights on, suggesting residential or commercial structures. The sky above is dark, indicating it is night time. The overall atmosphere is calm and quiet, with no visible movement or activity on the road or sidewalks.
+
+The image appears to be taken from an elevated position, possibly from a nearby building or a raised platform, as the perspective looks down upon the street and its surroundings.
+
+LABELS:
+- Road
+- Sidewalks
+- Streetlights
+- Trees
+- Buildings
+- Grass
+- Sky"
+downloaded_images_W085/2024-10-19 20:38:07.083578509+00:00.jpg,"DESCRIPTION: The image is an aerial view of a residential area. The photo is taken from a high vantage point, looking down on a street with a few cars parked on the side of the road. The street is lined with trees and shrubs, and there are several buildings visible in the background. The sky is blue with some clouds, and the overall landscape is green and well-maintained. The image appears to be taken from an observation deck or observation deck. LABELS: The photo, several buildings, The sky","DESCRIPTION:
+The image is an aerial view of a suburban area. In the foreground, there's a road with multiple lanes, and several cars are visible, including a white van driving on the right side of the road. The road is bordered by sidewalks and grassy areas with trees that have autumn foliage. There are also some buildings, possibly residential or commercial structures, along the sides of the road. The sky is partly cloudy with patches of blue.
+
+In the middle ground, there's a large open space that appears to be a park or recreational area with playground equipment and greenery. The background shows more buildings, which could be apartment complexes or office buildings, and additional roads with vehicles.
+
+LABELS:
+- Road
+- Cars (including a white van)
+- Sidewalks
+- Grass
+- Trees (with autumn foliage)
+- Buildings (residential/commercial)
+- Park/recreational area
+- Playground equipment
+- Sky (partly cloudy)"
